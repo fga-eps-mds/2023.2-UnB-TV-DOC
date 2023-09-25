@@ -4,4 +4,5 @@
 
 - **Treinamentos**
   - [1. Dojo Git](./treinamentos/dojo-git.md)
-
+- **Organização do projeto**
+  - [1. Quadro de Conhecimentos](./organizacao/quadro-conhecimento.md)
