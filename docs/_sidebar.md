@@ -4,4 +4,7 @@
 
 - **Treinamentos**
   - [1. Dojo Git](./treinamentos/dojo-git.md)
+- **Políticas**
+  - [2. Guia de contribuição](./politicas/CONTRIBUTING.md)
+
 
