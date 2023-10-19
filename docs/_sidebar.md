@@ -13,3 +13,6 @@
 
 - **Planejamento** 
   - [Plano de Riscos](./planejamento/plano-riscos.md)
+
+- **Organização do projeto**
+  - [1. Quadro de Conhecimentos](./organizacao/quadro-conhecimento.md)
