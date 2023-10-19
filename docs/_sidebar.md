@@ -32,3 +32,6 @@
   - [Sequenciador](./lean-inception/sequenciador.md)
   - [Canvas MVP](./lean-inception/canvasmvp.md)
   - [Backlog inicial do produto](./lean-inception/backlog.md)
+
+- **Organização do projeto**
+  - [1. Quadro de Conhecimentos](./organizacao/quadro-conhecimento.md)
