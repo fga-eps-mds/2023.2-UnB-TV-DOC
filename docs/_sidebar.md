@@ -10,6 +10,7 @@
 
 - **Planejamento** 
   - [Plano de Custos](./planejamento/plano_de_custos.md)
+  - [Plano de Qualidade](./planejamento/plano-qualidade.md)
 
 - **Planejamento** 
   - [Plano de Riscos](./planejamento/plano-riscos.md)
