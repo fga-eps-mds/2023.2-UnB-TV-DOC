@@ -1,4 +1,4 @@
-# Plano de Comunicação
+# Plano de Comunicação externo e interno
 
 ## 1. Introdução
 O objetivo deste documento é esclarecer a maneira como foi estabelecida e delineada a interação entre as equipes de EPS e MDS, o product owners da UnB-TV, e o Professor Hilmer, que ministra as disciplinas relacionadas.
@@ -25,29 +25,31 @@ Para facilitar a comunicação entre os membros, as seguintes ferramentas serão
 
 ## 4. Reuniões
 
+Dado que as sprints terão uma duração de uma semana, planejamos realizar encontros de equipe internos e externos, conforme detalhado nas seções subsequentes.
+
 | Dias    | Horários      | Descrição                |
 |---------|---------------|--------------------------|
 | Quarta  | 18:00 - 19:00 | Reunião do time com o PO |
 | Quarta  | 19:10 - 20:00 | Planning da sprint       |
-| Segunda | 19:00 - 20:00 | Retro \ Review           |
+| Terça   | 19:00 - 20:00 | Retro \ Review           |
 
-### Reunião Geral
-A reunião geral é realizada com os integrantes de EPS e MDS, toda segunda-feira às 19h00, seguindo a seguinte estrutura:
+### Reunião Interna
+A reunião geral é realizada com os integrantes de EPS e MDS, toda terça-feira às 19h00, seguindo a seguinte estrutura:
 
 - Retro/review
-- Planning
 - Validação das pautas e dúvidas para reunião com PO
 
-### Reunião com o PO
+### Reunião Externa
 
-A reunião com o PO ocorre toda quarta-feira a partir das 18hrs e tem duração em média de 1 hora, pariticipam todas os integrantes de MDS e EPS, professor Hilmer e o PO Caio.
+A reunião externa ocorre com o PO toda quarta-feira a partir das 18hrs e tem duração em média de 1 hora, pariticipam todas os integrantes de MDS e EPS, professor Hilmer e o PO Caio.
 
 A ata de reunião aborda 2 tópicos elementares:
 
 - Pautas da reunião
-- Dúvidas pontuadas para serem sanadas com o PO
+- Dúvidas pontuadas para serem sanadas com o PO para poder planejar a proxima sprint
 
 | Data       | Versão | Descrição             | Autor            |
 |------------|--------|-----------------------|------------------|
 | 04/10/2023 | 1.0    | Documento inicial     | Ricardo Loureiro |
 | 04/10/2023 | 1.1    | Planilha              | Ricardo Loureiro |
+| 19/10/2023 | 1.2    |Alterações no documento| Ricardo Loureiro |
