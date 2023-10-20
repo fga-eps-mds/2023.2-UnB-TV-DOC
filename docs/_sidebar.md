@@ -11,8 +11,8 @@
 - **Planejamento**
   - [Plano de Custos](./planejamento/plano_de_custos.md)
   - [Plano de Comunicaçao](./planejamento/plano_de_comunicacao.md)
-  - [Plano de Riscos](./planejamento/plano-riscos.md)
+  - [Plano de Riscos](./planejamento/plano-riscos.md)  
 
 - **Organização do projeto**
   - [1. Quadro de Conhecimentos](./organizacao/quadro-conhecimento.md)
-
+  - [2. Quadro de Disponibilidade](./organizacao/quadro-disponibilidade.md)
