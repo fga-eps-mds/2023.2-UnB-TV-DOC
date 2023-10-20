@@ -36,7 +36,6 @@ Segundo Carolli, a visão do produto é essencial para conduzir o projeto até o
 
 11. A etapa final, "Canvas MVP," resume as discussões e definições das fases anteriores em um quadro que apresenta o MVP a ser validado e utilizado pelo usuário. Isso ajuda a definir estratégias de desenvolvimento, incluindo proposta, personas, jornadas, funcionalidades, métricas e cronograma.
 
-
 ## 4. Referências
 
 [1] EQUIPE ALECTRION 2022-2. Visão do produto. Disponível em: https://fga-eps-mds.github.io/2023-1-Alectrion-DOC/documentacao/lean-inception/visao-do-produto/ Acesso em: 19 de out. de 2023.
@@ -49,4 +48,4 @@ Segundo Carolli, a visão do produto é essencial para conduzir o projeto até o
 
 | **Data**   | **Descrição**       | **Autore(es)** |
 | ---------- | ------------------- | -------------- |
-| 18/10/2023 | Adição do documento | Davi Marinho   |
+| 19/10/2023 | Adição do documento | Davi Marinho   |
