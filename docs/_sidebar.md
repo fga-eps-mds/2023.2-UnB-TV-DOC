@@ -16,22 +16,12 @@
   - [2. Guia de contribuição](./politicas/CONTRIBUTING.md)
 
 - **Organização do Projeto** 
+- [1. Quadro de Conhecimentos](./organizacao/quadro-conhecimento.md)
 
 - **Protótipo** 
 
 - **Semanas e Sprints** 
 
-- **Lean Inception**
-  - [Visão do Produto](./lean-inception/visaoproduto.md)
-  - [É, Não é, Faz, Não faz](./lean-inception/enaoefaznaofaz.md)
-  - [Objetivos do Produto](./lean-inception/objetivos.md)
-  - [Personas](./lean-inception/personas.md)
-  - [Jornadas de Usuário](./lean-inception/jornadausuario.md)
-  - [Brainstorm de Funcionalidades](./lean-inception/brainstorm.md)
-  - [Revisão técnica, de negócio e de UX](./lean-inception/revisaotecnica.md)
-  - [Sequenciador](./lean-inception/sequenciador.md)
-  - [Canvas MVP](./lean-inception/canvasmvp.md)
-  - [Backlog inicial do produto](./lean-inception/backlog.md)
-
-- **Organização do projeto**
-  - [1. Quadro de Conhecimentos](./organizacao/quadro-conhecimento.md)
+- **Produto**
+  - [Lean Inception](./produto/lean-inception.md.md)
+  - [Backlog do Produto](./produto/backlog-produto.md)
