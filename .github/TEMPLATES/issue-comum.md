@@ -1,14 +1,5 @@
 ---
 name: Issue comum
-about: Template issues
-title: ''
-labels: ''
-assignees: ''
-
----
-
----
-name: Issue comum
 about: Template para issues comuns
 title: ''
 labels: ''

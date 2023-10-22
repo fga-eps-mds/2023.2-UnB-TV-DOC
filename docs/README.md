@@ -4,7 +4,6 @@
 
 | Foto | Nome | Github | Email | Matrícula |
 |:----:|:----:|:------:|:-----:|:--------:|
-| <img width="100px" style="border-radius:10%" src="https://github.com/AnaCarolinaRodriguesLeite.png" alt="Ana Carolina Rodrigues Leite"> | Ana Carolina Rodrigues Leite | @AnaCarolinaRodriguesLeite | anacarolinarodrigues480@gmail.com | 190101792 |
 | <img width="100px" style="border-radius:10%" src="https://github.com/DaviMarinho.png" alt="Davi Marinho da Silva Campos"> | Davi Marinho da Silva Campos | @DaviMarinho | davii_marinho@hotmail.com | 190026600 |
 | <img width="100px" style="border-radius:10%" src="https://github.com/Diego-Carlito.png" alt="Diego Carlito Rodrigues de Souza"> | Diego Carlito Rodrigues de Souza | @Diego-Carlito | <221007690@aluno.unb.br> | 221007690 |
 | <img width="100px" style="border-radius:10%" src="https://github.com/eric-kingu.png" alt="Eric Akio Lages Nishimura"> | Eric Akio Lages Nishimura | @eric-kingu | <190105895@aluno.unb.br> | 190105895 |
