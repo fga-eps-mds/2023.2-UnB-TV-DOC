@@ -6,7 +6,7 @@ O documento de arquitetura tem por finalidade apresentar e justificar as decisõ
 
 ## 1.1. Visão Geral
 
-Este documento está estruturado da seguinte forma: - Introdução - Representação arquitetural - Visão lógica - Visão de dados - Referências bibliográficas - Histórico de versão
+Este documento está estruturado da seguinte forma: - Introdução - Representação arquitetural - Visão lógica  - Referências bibliográficas - Histórico de versão
 
 # 2. Representação arquitetural
 
@@ -36,6 +36,8 @@ Ao criar um diagrama de relações de um sistema, é importante fornecer detalhe
 - Usuário: Serviço de usuário é responsável por gerenciar os usuários da aplicação.
 
 - EduPlay: Serviço de stream responsável por gerenciar os videos da aplicação.
+
+- Notificação: Serviço de notificação é responsável por gerenciar os notificações da aplicação.
 
 ## 3. Tecnologias
 
