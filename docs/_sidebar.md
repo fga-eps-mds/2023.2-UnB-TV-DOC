@@ -32,3 +32,6 @@
 - **Produto**
   - [Lean Inception](./produto/lean-inception.md.md)
   - [Backlog do Produto](./produto/backlog-produto.md)
+
+- **Arquitetura**
+  - [Documento de Arquitetura](./arquitetura/documento-de-arquitetura.md)

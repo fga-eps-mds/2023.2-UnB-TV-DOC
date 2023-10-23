@@ -15,7 +15,7 @@ Este documento está estruturado da seguinte forma: - Introdução - Representa�
 
 O Diagrama de Relações é uma representação gráfica que ilustra como os componentes do sistema se comunicam e interagem. Nesse tipo de diagrama, você pode destacar as conexões e dependências entre os diferentes microserviços, o frontend e o backend do sistema. Isso ajuda a visualizar a arquitetura de software e entender como as partes se relacionam.
 
-![](/docs/arquitetura/Imagens/diagramaDeRelacao.png)
+![](/docs/arquitetura/Imagens/diagramaDeRelacao.jpg)
 
 O estilo arquitetural apresentado acima, adota uma abordagem em que uma aplicação é dividida em unidades menores, chamadas de microsserviços, que funcionam de maneira autônoma com baixo acoplamento. Esses microsserviços podem interagir entre si geralmente por meio de APIs e são organizados com base em funções de negócios específicas.
 
@@ -59,12 +59,20 @@ O PostgreSQL é um sistema gerenciador de banco de dados relacionais de código 
 
 ### 4.2. Diagrama de pacote Back-end
 
-![](/docs/arquitetura/Imagens/FrontEnd%20pacote.png)
+![](/docs/arquitetura/Imagens/BackEnd.png)
 
 ### 4.3. Diagrama de implantação
 
 ### 4.4. Diagrama de classe
 
-### 4.4.1. Microsserviço de usuário
+#### 4.4.1. Microsserviço de usuário
+
+![](/docs/arquitetura/Imagens/diagramaDeClasse-User.png)
 
 
+## 5. Histórico de versão
+
+|**Data**|**Descrição**|**Autore(es)**|
+|--------|-------------|--------------|
+| 22/10/2023 | Adição do documento | Sávio |
+| 22/10/2023 | Adiciona diagrama de classes e demais alterações | Gabrielle Ribeiro |
