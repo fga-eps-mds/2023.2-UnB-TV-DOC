@@ -7,3 +7,9 @@ Nesse Dojo, foi apresentado uma breve explicação das diferenças entre a lingu
 A gravação do treinamento pode ser assistida a seguir:
 
 <iframe width="640" height="480" src="https://www.youtube.com/embed/elkEx8W9efU?si=1FFL6612uAAk6eUo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Histórico de versão
+
+|**Data**|**Descrição**|**Autore(es)**|
+|--------|-------------|--------------|
+| 22/10/2023 | Adição do documento | Gabrielle Ribeiro |
