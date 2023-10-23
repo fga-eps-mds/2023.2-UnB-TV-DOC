@@ -63,6 +63,8 @@ O PostgreSQL é um sistema gerenciador de banco de dados relacionais de código 
 
 ### 4.3. Diagrama de implantação
 
+![](/docs/arquitetura/Imagens/DiagramaImplantacao.png)
+
 ### 4.4. Diagrama de classe
 
 #### 4.4.1. Microsserviço de usuário
@@ -70,7 +72,14 @@ O PostgreSQL é um sistema gerenciador de banco de dados relacionais de código 
 ![](/docs/arquitetura/Imagens/diagramaDeClasse-User.png)
 
 
-## 5. Histórico de versão
+## 5. Referências Bibliográficas
+
+CREATELY. O Guia Fácil de Diagramas de Implantação UML. Disponível em: https://creately.com/blog/pt/diagrama/tutorial-do-diagrama-de-implantacao.
+
+Geekhunter. O que são microsserviços e como funcionam?. Disponível em: https://blog.geekhunter.com.br/arquitetura-de-microsservicos-x-arquitetura-monolitica/.
+
+
+## 6. Histórico de versão
 
 |**Data**|**Descrição**|**Autore(es)**|
 |--------|-------------|--------------|
