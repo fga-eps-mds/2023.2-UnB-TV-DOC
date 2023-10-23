@@ -19,10 +19,11 @@
 - **Planejamento** 
   - [1. Plano de Custos](./planejamento/plano_de_custos.md)
   - [2. Plano de Qualidade](./planejamento/plano-qualidade.md)
-  - 
+
 - **Organização do Projeto**
   - [1. Quadro de Conhecimentos](./organizacao/quadro-conhecimento.md)
   - [2. Quadro de Disponibilidade](./organizacao/quadro-disponibilidade.md)
+  - [3. Metodologias](./organizacao/metodologia.md)
 
 - **Protótipo e Guia de Estilo**
   - [Protótipo de Alta Fidelidade](./prototipo/alta_fidelidade.md)
