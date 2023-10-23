@@ -24,7 +24,9 @@
   - [1. Quadro de Conhecimentos](./organizacao/quadro-conhecimento.md)
   - [2. Quadro de Disponibilidade](./organizacao/quadro-disponibilidade.md)
 
-- **Protótipo**
+- **Protótipo e Guia de Estilo**
+  - [Protótipo de Alta Fidelidade](./prototipo/alta_fidelidade.md)
+  - [Guia de Estilo](./prototipo/guia_de_estilo.md)
 
 - **Semanas e Sprints**
 
