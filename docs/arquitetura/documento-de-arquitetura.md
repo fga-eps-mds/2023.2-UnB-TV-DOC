@@ -57,22 +57,21 @@ O PostgreSQL é um sistema gerenciador de banco de dados relacionais de código 
 
 ### 4.1. Diagrama de pacote Front-end
 
-![](/docs/arquitetura/Imagens/FrontEnd%20pacote.png)
+![frontend](./Imagens/FrontEnd%20pacote.png)
 
 ### 4.2. Diagrama de pacote Back-end
 
-![](/docs/arquitetura/Imagens/BackEnd.png)
+![backend](./Imagens/BackEnd.png)
 
 ### 4.3. Diagrama de implantação
 
-![](/docs/arquitetura/Imagens/DiagramaImplantacao.png)
+![diagrama-de-implantacao](./Imagens/DiagramaImplantacao.png)
 
 ### 4.4. Diagrama de classe
 
 #### 4.4.1. Microsserviço de usuário
 
-![](/docs/arquitetura/Imagens/diagramaDeClasse-User.png)
-
+![diagrama-de-classes](./Imagens/diagramaDeClasse-User.png)
 
 ## 5. Referências Bibliográficas
 
