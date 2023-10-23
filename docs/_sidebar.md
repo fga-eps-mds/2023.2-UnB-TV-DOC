@@ -25,7 +25,9 @@
   - [2. Quadro de Disponibilidade](./organizacao/quadro-disponibilidade.md)
   - [3. Metodologias](./organizacao/metodologia.md)
 
-- **Protótipo**
+- **Protótipo e Guia de Estilo**
+  - [Protótipo de Alta Fidelidade](./prototipo/alta_fidelidade.md)
+  - [Guia de Estilo](./prototipo/guia_de_estilo.md)
 
 - **Semanas e Sprints**
 
