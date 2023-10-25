@@ -10,7 +10,11 @@ Segundo Carolli, a visão do produto é essencial para conduzir o projeto até o
 
 ## 2. Resultado
 
-<iframe src='https://app.mural.co/embed/3284b345-3c5a-41d3-96c9-fa9e505883f9' width='100%' height='480px' style='min-width: 640px; min-height: 480px; background-color: #f4f4f4; border: 1px solid #efefef' sandbox='allow-same-origin allow-scripts allow-modals allow-popups allow-popups-to-escape-sandbox'> </iframe>
+<iframe src='https://app.mural.co/embed/5cd552e1-2a70-4fdd-8bdf-ce66b3655a5d'
+  width='100%'
+  height='768px'
+  style='min-width: 1024px; min-height: 768px; background-color: #f4f4f4; border: 1px solid #efefef'
+  sandbox='allow-same-origin allow-scripts allow-modals allow-popups allow-popups-to-escape-sandbox'> </iframe>
 
 ## 3.Lean Inception
 
