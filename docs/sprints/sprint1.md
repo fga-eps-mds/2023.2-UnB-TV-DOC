@@ -22,7 +22,6 @@ Período: 18/10/2023 a 25/10/2023
 | Organizar documentos na Wiki | Todos                  |
 | Dockerizar ambientes         | João, Geraldo, Ricardo |
 | Configurar sonar             | João, Lucas            |
-| Configurar sonar             | João, Lucas            |
 
 <!-- # Retrospetiva Sprint 1 -->
 
