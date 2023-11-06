@@ -1,11 +1,11 @@
-# Sprint 2
+# Sprint 3
 
-Período: 26/10/2023 a 31/10/2023
+Período: 01/11/2023 a 07/11/2023
 
 ## Objetivos da Sprint
 
 -   Continuar o desenvolvimento das funcionalidades do sistema
--   Corrigir erros na documentação
+-   Entregar as issues da ultima sprint que esstão atrasadas
 
 ## Backlog da Sprint
 
@@ -19,15 +19,17 @@ Período: 26/10/2023 a 31/10/2023
 
 ## Outras tarefas
 
-| Tarefa                                | Membros          |
-| ------------------------------------- | ---------------- |
-| Configurar CI/CD                      | Davi             |
-| Correção do Sonar                     | João,Lucas       |
-| Organizar o backlog                   | Geraldo          |
-| Corrigir documento de arquitetura     | Gabrielle, Sávio |
-| Criar documento de Teste de aceitação | Sávio            |
+| Tarefa                                  | Membros                            |
+| --------------------------------------- | ---------------------------------- |
+| Configurar CI/CD                        | Davi                               |
+| Correção do Sonar                       | João,Lucas                         |
+| Organizar o backlog                     | Geraldo                            |
+| Corrigir documento de arquitetura       | Gabrielle, Sávio, Geraldo, Ricardo |
+| Criar documento de Teste de aceitação   | Sávio, João                        |
+| Criar testes unitarios serviço de Users | Lucas                              |
+| Criar testes unitarios no frontend      | João                               |
 
-# Retrospetiva Sprint 2
+<!-- # Retrospetiva Sprint 2 -->
 
 <!-- ## Burndown
 
@@ -37,19 +39,8 @@ Ainda não implementado
 
 Ainda não implementado -->
 
+<!-- ## Retrospectiva
+
 ### Pontos Positivos
 
--   Mds codaram mais
--   Lucas é brabo
--   Mds aprendeu muito
-
-### Pontos Negativos
-
--   Demora para começar a desenvolver na sprint
--   Falta de comunicação
--   Falta de organização da arquitetura
--   Não saber exatamente o que o professor queria em relação a alguns pontos (backlog, commit com co autor).
--   Falta organização dos horarios de reunião
--   Lembrar de usar o zenhub
--   Nada finalizado na sprint
--   Membros de EPS sumiram
+### Pontos Negativos -->
