@@ -10,7 +10,9 @@ O projeto visa o desenvolvimento de uma aplicação Web e Mobile para a UnB-TV, 
 ## Ambientes
 
 [Documentação](https://github.com/fga-eps-mds/2023.2-UnB-TV-DOC)
-[Backend:Users](https://github.com/fga-eps-mds/2023.2-UnB-TV-Users)
+[Users](https://github.com/fga-eps-mds/2023.2-UnB-TV-Users)
+[Admin](https://github.com/fga-eps-mds/2023.2-UnB-TV-Admin)
+[Video](https://github.com/fga-eps-mds/2023.2-UnB-TV-VideoService)
 [Frontend](https://github.com/fga-eps-mds/2023.2-UnB-TV-Frontend)
 
 ## Acessando o repositório localmente
