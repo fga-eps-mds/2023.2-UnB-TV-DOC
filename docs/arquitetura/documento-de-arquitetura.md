@@ -11,6 +11,20 @@ Este documento detalha a estrutura do software de um projeto que incorpora Angul
   </figcaption>
 </figure>
 
+## 2. Tecnologias
+
+### 2.1. Angular
+
+Angular é empregado como a principal tecnologia de frontend neste projeto, proporcionando uma interface de usuário interativa e responsiva. Sua arquitetura robusta e recursos avançados de bidirectional data binding facilitam a gestão eficiente dos estados da interface, enquanto sua integração com os microsserviços via HTTP garante uma comunicação fluida e eficiente. Angular também contribui para uma manutenção mais fácil e um desenvolvimento ágil, graças à sua estrutura modular e ao extenso ecossistema de ferramentas.
+
+### 2.2. FastAPI
+
+FastAPI é utilizado neste projeto para desenvolver quatro microsserviços, destacando-se por sua alta performance e facilidade de uso. Este framework de Python permite a construção rápida de APIs eficientes, com recursos automáticos de documentação interativa e validação de dados. A escolha do FastAPI apoia a arquitetura de microsserviços do projeto, proporcionando uma comunicação ágil e confiável entre os diferentes serviços, além de facilitar a escalabilidade e manutenção do sistema.
+
+### 2.3. PostgreSQL
+
+No projeto, o PostgreSQL é utilizado como o sistema de gerenciamento de banco de dados, oferecendo uma solução robusta e confiável para armazenamento e recuperação de dados. Sua escolha deve-se à sua performance elevada, suporte a transações complexas e compatibilidade com os padrões SQL. Além disso, o PostgreSQL é conhecido por sua extensibilidade e forte conformidade com ACID, garantindo a integridade e a segurança dos dados. Essas características o tornam uma escolha adequada para gerenciar as informações críticas e assegurar a eficiência na manipulação de dados no contexto do projeto.
+
 # 2. Representação arquitetural
 
 ## 2.1. Diagrama de Relações
@@ -41,19 +55,7 @@ Ao criar um diagrama de relações de um sistema, é importante fornecer detalhe
 
 -   Notificação: Serviço de notificação é responsável por gerenciar os notificações da aplicação.
 
-## 3. Tecnologias
 
-### 3.1. Angular
-
-Angular é um framework JavaScript de código aberto que dispoe de uma estrutura de desenvolvimento web que se destaca por sua abordagem baseada em componentes. Ele oferece a capacidade de criar componentes encapsulados e autossuficientes que gerenciam seu próprio estado, permitindo assim o desenvolvimento de interfaces de usuário complexas. Angular é uma escolha sólida para o desenvolvimento front-end, pois fornece ferramentas e recursos para construir aplicativos web interativos e escaláveis.
-
-### 3.2. FastAPI
-
-O FastAPI é um framework Python que brilha no desenvolvimento de APIs RESTful e aplicações web, semelhante ao ao Angular, porém, focado no back-end. Com uma sintaxe limpa e intuitiva, o FastAPI permite a criação de endpoints encapsulados, tornando o processo de desenvolvimento eficiente e produtivo. Sua capacidade de geração automática de documentação Swagger e suporte a tipagem de dados em Python com Pydantic facilitam a criação de APIs robustas e bem documentadas. O FastAPI é uma escolha sólida para o desenvolvimento back-end.
-
-### 3.3. PostgreSQL
-
-O PostgreSQL é um sistema gerenciador de banco de dados relacionais de código aberto que permite o armazenamento, recuperação e gerenciamento eficiente de dados estruturados. O PostgreSQL será utilizado para gerenciar as bases de dados dos serviços da aplicação.
 
 ## 4. Visão lógica
 
