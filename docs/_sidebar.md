@@ -8,6 +8,7 @@
     -   [Dojo Python](./treinamentos/dojo-python.md.md)
 -   **Plano e Monitoramento**
 
+    -   [EVM Agile](./planejamento/emv.md)
     -   [Plano de Custos](./planejamento/plano_de_custos.md)
     -   [Plano de Comunicaçao](./planejamento/plano_de_comunicacao.md)
     -   [Plano de Riscos](./planejamento/plano-riscos.md)
