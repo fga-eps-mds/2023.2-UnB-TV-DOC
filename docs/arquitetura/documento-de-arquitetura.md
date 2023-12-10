@@ -51,25 +51,19 @@ No projeto, o PostgreSQL é utilizado como o sistema de gerenciamento de banco d
 
 ![diagrama-de-implantacao](./Imagens/implementação.svg)
 
-### 4.4. Diagrama de classe
 
-#### 4.4.1. Microsserviço de usuário
+## 5. Diagrama Entidade Relacionamento (DER)
 
-![diagrama-de-classes](./Imagens/diagramaDeClasse-User.png)
+O diagrama de entidade-relacionamento serve como uma ferramenta gráfica para modelar bancos de dados, proporcionando uma visão clara e abrangente da estrutura do banco de dados. Este diagrama é útil para equipes de desenvolvimento, pois descreve visualmente os objetos (entidades) que fazem parte do projeto, incluindo suas características específicas (atributos) e as formas como se relacionam entre si.
 
-## 2.1. Diagrama de Relações
-
-O Diagrama de Relações é uma representação gráfica que ilustra como os componentes do sistema se comunicam e interagem. Nesse tipo de diagrama, você pode destacar as conexões e dependências entre os diferentes microserviços, o frontend e o backend do sistema. Isso ajuda a visualizar a arquitetura de software e entender como as partes se relacionam.
-
-![diagramaRelacoes](/docs/arquitetura/Imagens/diagramaDeRelacao.jpg)
-
-O estilo arquitetural apresentado acima, adota uma abordagem em que uma aplicação é dividida em unidades menores, chamadas de microsserviços, que funcionam de maneira autônoma com baixo acoplamento. Esses microsserviços podem interagir entre si geralmente por meio de APIs e são organizados com base em funções de negócios específicas.
+![Diagrama Entidade Relacionamento](./Imagens/DER.png)
 
 
+## 6. Diagrama Lógico de Dados (DLD)
 
+O diagrama lógico de dados é uma representação detalhada que se aproxima da estrutura final a ser implementada no banco de dados. Este diagrama inclui tabelas, especificando todos os atributos, além de identificar as chaves primárias e estrangeiras. Ele define a estrutura dos elementos de dados e seus inter-relacionamentos, descrevendo assim as necessidades de dados requeridas para o projeto.
 
-
-
+![Diagrama Lógico de Dados](./Imagens/Lógico.png)
 
 ## 5. Referências Bibliográficas
 
