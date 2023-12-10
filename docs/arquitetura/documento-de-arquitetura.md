@@ -2,7 +2,8 @@
 
 ## 1. Introdução
 
-O documento de arquitetura tem por finalidade apresentar e justificar as decisões tomadas em relação à implementação do sistema de software, abrangendo aspectos como o banco de dados, o backend, o frontend e as interações com outros sistemas.
+
+Este documento detalha a estrutura do software de um projeto que incorpora Angular para o frontend. Ele é composto por quatro microsserviços desenvolvidos com FastAPI, um gateway em Node para facilitar a comunicação entre esses serviços e um banco de dados PostgreSQL. A estrutura projetada tem foco na escalabilidade, resiliência e alto desempenho. Baseia-se no conceito de microsserviços, onde componentes distintos funcionam como serviços autônomos, interagindo por meio de interfaces claramente estabelecidas. Este é um esboço da arquitetura em um nível geral:
 
 ## 1.1. Visão Geral
 
