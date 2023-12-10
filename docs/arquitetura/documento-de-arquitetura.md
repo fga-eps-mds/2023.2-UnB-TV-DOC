@@ -49,7 +49,7 @@ No projeto, o PostgreSQL é utilizado como o sistema de gerenciamento de banco d
 
 ### 4.3. Diagrama de implantação
 
-![diagrama-de-implantacao](./Imagens/DiagramaImplantacao.png)
+![diagrama-de-implantacao](./Imagens/implementação.svg)
 
 ### 4.4. Diagrama de classe
 
