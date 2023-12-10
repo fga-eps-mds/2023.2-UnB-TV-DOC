@@ -28,7 +28,7 @@ Assim, ao longo dos 4 meses do projeto, um desenvolvedor terá um gasto total de
 
 ## 3. Planilha
 
-<iframe iframe width=100% height=600 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSNxEkaPMcIFcObz6O3ki1Le_igPHK6LzyYv42uFKHDa_cvYHjf_kH0t0Jj5ZfWsJ94mmbFKsTXaC_O/pubhtml?gid=711607829&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe iframe width=100% height=800 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSNxEkaPMcIFcObz6O3ki1Le_igPHK6LzyYv42uFKHDa_cvYHjf_kH0t0Jj5ZfWsJ94mmbFKsTXaC_O/pubhtml?gid=0&single=true"></iframe>
 
 ## 4. Bibliografia
 
@@ -45,3 +45,4 @@ Assim, ao longo dos 4 meses do projeto, um desenvolvedor terá um gasto total de
 | 03/10/2023 | 1.1    | Custo por aluno       | Ricardo Loureiro |
 | 03/10/2023 | 1.2    | Custo por equipamento | Ricardo Loureiro |
 | 03/10/2023 | 1.3    | Planilha              | Ricardo Loureiro |
+| 10/12/2023 | 1.4    | Correção Planilha     | Ricardo Loureiro |
