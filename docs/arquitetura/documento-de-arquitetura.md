@@ -41,11 +41,11 @@ No projeto, o PostgreSQL é utilizado como o sistema de gerenciamento de banco d
 
 ### 4.1. Diagrama de pacote Front-end
 
-![frontend](./Imagens/FrontEnd%20pacote.png)
+![frontend](./Imagens/frontend.svg)
 
 ### 4.2. Diagrama de pacote Back-end
 
-![backend](./Imagens/BackEnd.png)
+![backend](./Imagens/backend.svg)
 
 ### 4.3. Diagrama de implantação
 
