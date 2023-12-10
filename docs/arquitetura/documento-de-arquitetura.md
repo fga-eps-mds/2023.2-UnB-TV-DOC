@@ -77,3 +77,4 @@ Geekhunter. O que são microsserviços e como funcionam?. Disponível em: https:
 | ---------- | ------------------------------------------------ | ----------------- |
 | 22/10/2023 | Adição do documento                              | Sávio             |
 | 22/10/2023 | Adiciona diagrama de classes e demais alterações | Gabrielle Ribeiro |
+| 10/12/2023 | Altera o documento de arquitetura                | Ricardo Loureiro  |
