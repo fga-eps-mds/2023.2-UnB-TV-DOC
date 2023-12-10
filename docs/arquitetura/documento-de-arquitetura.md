@@ -3,11 +3,13 @@
 ## 1. Introdução
 
 
-Este documento detalha a estrutura do software de um projeto que incorpora Angular para o frontend. Ele é composto por quatro microsserviços desenvolvidos com FastAPI, um gateway em Node para facilitar a comunicação entre esses serviços e um banco de dados PostgreSQL. A estrutura projetada tem foco na escalabilidade, resiliência e alto desempenho. Baseia-se no conceito de microsserviços, onde componentes distintos funcionam como serviços autônomos, interagindo por meio de interfaces claramente estabelecidas. Este é um esboço da arquitetura em um nível geral:
+Este documento detalha a estrutura do software de um projeto que incorpora Angular para o frontend. Ele é composto por quatro microsserviços desenvolvidos com FastAPI, um gateway em Node para facilitar a comunicação entre esses serviços e um banco de dados PostgreSQL, além de consumir a API do EduPlay para acessar os vídeos e programas ao vivo. A estrutura projetada tem foco na escalabilidade, resiliência e alto desempenho. Baseia-se no conceito de microsserviços, onde componentes distintos funcionam como serviços autônomos, interagindo por meio de interfaces claramente estabelecidas. Este é um esboço da arquitetura em um nível geral:
 
-## 1.1. Visão Geral
-
-Este documento está estruturado da seguinte forma: - Introdução - Representação arquitetural - Visão lógica - Referências bibliográficas - Histórico de versão
+![Arquitetura](../assets/arquitetura.svg)
+<figcaption style="text-align: center !important">
+    Fonte: Próprio autor
+  </figcaption>
+</figure>
 
 # 2. Representação arquitetural
 
