@@ -25,37 +25,17 @@ FastAPI é utilizado neste projeto para desenvolver quatro microsserviços, dest
 
 No projeto, o PostgreSQL é utilizado como o sistema de gerenciamento de banco de dados, oferecendo uma solução robusta e confiável para armazenamento e recuperação de dados. Sua escolha deve-se à sua performance elevada, suporte a transações complexas e compatibilidade com os padrões SQL. Além disso, o PostgreSQL é conhecido por sua extensibilidade e forte conformidade com ACID, garantindo a integridade e a segurança dos dados. Essas características o tornam uma escolha adequada para gerenciar as informações críticas e assegurar a eficiência na manipulação de dados no contexto do projeto.
 
-# 2. Representação arquitetural
+## 3. Representação dos serviços
 
-## 2.1. Diagrama de Relações
+-   Frontend: Responsável por todas as interações do usuário com o sistema, este serviço é o meio pelo qual o usuário pode acessar visualmente as funcionalidades oferecidas no contexto da aplicação. Exemplo: Logar por redes sociais ou email, visualizar o católogo dos vídeos com os programas, sugerir pauta, assistir ao canal ao vivo.
 
-O Diagrama de Relações é uma representação gráfica que ilustra como os componentes do sistema se comunicam e interagem. Nesse tipo de diagrama, você pode destacar as conexões e dependências entre os diferentes microserviços, o frontend e o backend do sistema. Isso ajuda a visualizar a arquitetura de software e entender como as partes se relacionam.
+-   VideoService: Microserviço responsável pelos comentários nos vídeos e a grade de programação dos programas.
 
-![diagramaRelacoes](/docs/arquitetura/Imagens/diagramaDeRelacao.jpg)
+-   Users: Microsserviço responsável pela gestão dos usuários da aplicação.
 
-O estilo arquitetural apresentado acima, adota uma abordagem em que uma aplicação é dividida em unidades menores, chamadas de microsserviços, que funcionam de maneira autônoma com baixo acoplamento. Esses microsserviços podem interagir entre si geralmente por meio de APIs e são organizados com base em funções de negócios específicas.
+-   Admin: Microsserviço responsável pela conta do admin, como delegar admin a outros usuários, receber as pautas sugeridas, gerar notificações para a aplicação.
 
-## 2.2. Representação dos serviços
-
-Ao criar um diagrama de relações de um sistema, é importante fornecer detalhes suficientes para representar com precisão a arquitetura do sistema e como os diferentes componentes se conectam.
-
--   Frontend: Representação da interface do usuário, como páginas da web, aplicativos móveis ou qualquer outra forma de interação com o usuário.
-
--   Backend: Representado pelos servidores, aplicativos e serviços que processam solicitações vindas do frontend, realizam lógica de negócios e interagem com o banco de dados.
-
--   Microserviços: Cada microserviço é representado separadamente no diagrama, destacando as funções específicas que eles desempenham.
-
--   Comunicações: As setas e linhas conectando os elementos indicam as interações e comunicações entre o frontend, o backend e os microserviços.
-
--   Gateway: Responsável para realizar a interface do usuário com os demais serviços da aplicação, provendo autenticação e autorização.
-
--   Usuário: Serviço de usuário é responsável por gerenciar os usuários da aplicação.
-
--   EduPlay: Serviço de stream responsável por gerenciar os videos da aplicação.
-
--   Notificação: Serviço de notificação é responsável por gerenciar os notificações da aplicação.
-
-
+-   API-Gateway : Responsável para realizar a interface do usuário com os demais serviços da aplicação, provendo autenticação e autorização.
 
 ## 4. Visão lógica
 
@@ -76,6 +56,20 @@ Ao criar um diagrama de relações de um sistema, é importante fornecer detalhe
 #### 4.4.1. Microsserviço de usuário
 
 ![diagrama-de-classes](./Imagens/diagramaDeClasse-User.png)
+
+## 2.1. Diagrama de Relações
+
+O Diagrama de Relações é uma representação gráfica que ilustra como os componentes do sistema se comunicam e interagem. Nesse tipo de diagrama, você pode destacar as conexões e dependências entre os diferentes microserviços, o frontend e o backend do sistema. Isso ajuda a visualizar a arquitetura de software e entender como as partes se relacionam.
+
+![diagramaRelacoes](/docs/arquitetura/Imagens/diagramaDeRelacao.jpg)
+
+O estilo arquitetural apresentado acima, adota uma abordagem em que uma aplicação é dividida em unidades menores, chamadas de microsserviços, que funcionam de maneira autônoma com baixo acoplamento. Esses microsserviços podem interagir entre si geralmente por meio de APIs e são organizados com base em funções de negócios específicas.
+
+
+
+
+
+
 
 ## 5. Referências Bibliográficas
 
