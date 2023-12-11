@@ -54,7 +54,7 @@ Abaixo temos os valores a serem usados pela equipe para determinar se os padrõe
 | Métrica                      | Valor                    |
 | ---------------------------- | ------------------------ |
 | Tests                        | 100% dos testes passando |
-| Coverage                     | acima de 70%             |
+| Coverage                     | acima de 90%             |
 | Complexity                   | até 10                   |
 | Comment Lines Density (%)    | até 30%                  |
 | Duplicated Lines Density (%) | até 5%                   |

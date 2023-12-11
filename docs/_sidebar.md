@@ -23,6 +23,7 @@
     -   [Quadro de Conhecimentos](./organizacao/quadro-conhecimento.md)
     -   [Quadro de Disponibilidade](./organizacao/quadro-disponibilidade.md)
     -   [Metodologias](./organizacao/metodologia.md)
+    -   [Estrutura analítica do projeto](./organizacao/estrutura_analitica_projeto.md)
 
 -   **Protótipo e Guia de Estilo**
 

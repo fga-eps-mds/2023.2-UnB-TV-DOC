@@ -18,7 +18,96 @@ Será realizada a atualização desse quadro a cada sprint. Dessa forma, podemos
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRfvuXHyq18k4GbOit8dXVr_sYbU63qSmTRchwqdd4ZDfoMTLGmZlv3K4Jp5ol9NUkpwf_cm_2RaGrE/pubhtml?single=false&amp;widget=true&amp;headers=false" style="width: 800px; height: 400px; border: none;border-radius: 10px;box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);"></iframe>
 
+### Comparação entre Sprint 1 e Sprint 8 nas tecnologias utilizadas no projeto
+
+Os gráficos abaixo mostram a quantidade de integrantes em cada nível de conhecimento que eles se auto avaliaram na Sprint 1 em comparação com a Spring 8 (última Sprint).
+
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <div>
+    <h1>Sprint 1</h1>
+    <img src="../assets/sprints-quadro-conhecimento/GIT-Sprint1.png" alt="Sprint 1" />
+  </div>
+
+  <div>
+    <h1>Sprint 8</h1>
+    <img src="../assets/sprints-quadro-conhecimento/GIT-Sprint8.png" alt="Sprint 8" />
+  </div>
+</div>
+
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <div>
+    <img src="../assets/sprints-quadro-conhecimento/Angular-Sprint1.png" alt="Sprint 1" />
+  </div>
+
+  <div>
+    <img src="../assets/sprints-quadro-conhecimento/Angular-Sprint8.png" alt="Sprint 8" />
+  </div>
+</div>
+
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <div>
+    <img src="../assets/sprints-quadro-conhecimento/Docker-Sprint1.png" alt="Sprint 1" />
+  </div>
+
+  <div>
+    <img src="../assets/sprints-quadro-conhecimento/Docker-Sprint8.png" alt="Sprint 8" />
+  </div>
+</div>
+
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <div>
+    <img src="../assets/sprints-quadro-conhecimento/FastAPI-Sprint1.png" alt="Sprint 1" />
+  </div>
+
+  <div>
+    <img src="../assets/sprints-quadro-conhecimento/FastAPI-Sprint8.png" alt="Sprint 8" />
+  </div>
+</div>
+
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <div>
+    <img src="../assets/sprints-quadro-conhecimento/Scrum-Sprint1.png" alt="Sprint 1" />
+  </div>
+
+  <div>
+    <img src="../assets/sprints-quadro-conhecimento/Scrum-Sprint8.png" alt="Sprint 8" />
+  </div>
+</div>
+
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <div>
+    <img src="../assets/sprints-quadro-conhecimento/Kanban-Sprint1.png" alt="Sprint 1" />
+  </div>
+
+  <div>
+    <img src="../assets/sprints-quadro-conhecimento/Kanban-Sprint8.png" alt="Sprint 8" />
+  </div>
+</div>
+
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <div>
+    <img src="../assets/sprints-quadro-conhecimento/SonarCube-Sprint1.png" alt="Sprint 1" />
+  </div>
+
+  <div>
+    <img src="../assets/sprints-quadro-conhecimento/SonarCube-Sprint8.png" alt="Sprint 8" />
+  </div>
+</div>
+
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <div>
+    <img src="../assets/sprints-quadro-conhecimento/Testeunitario-Sprint1.png" alt="Sprint 1" />
+  </div>
+
+  <div>
+    <img src="../assets/sprints-quadro-conhecimento/Testeunitario-Sprint8.png" alt="Sprint 8" />
+  </div>
+</div>
+
+Conforme os gráficos demonstram houve evolução em quase todos os conhecimentos utilizados no projeto pelos integrantes do grupo.
+
 ## Histórico de versão
 | Data | Versão | Descrição | Autor(es) |
 | ---- | ---- | ---- | ---- |
 | 23/09/2023 | 1.0 | Criação do Documento | Lucas Andrade |
+| 09/12/2023 | 1.1 | Adição de evolução do time | Geraldo Victor |
