@@ -8,9 +8,9 @@ O propósito do Plano de Custos é estabelecer uma projeção orçamentária pre
 
 ### Alunos
 
-De acordo com um artigo publicado pelo jornal da Universidade Estadual Paulista (Unesp) em 2019, o investimento anual por estudante em instituições federais de ensino superior alcançou a cifra de R$ 40.900,00. Usando essa informação como base, podemos calcular o custo por aluno mensal, que corresponde a R$ 3.408,33. Em uma análise semanal, esse custo equivale a R$ 852,08, e quando dividido por dia (considerando um projeto de educação contínua ao longo dos sete dias da semana), o custo diário se resume a R$ 121,73. Levando em consideração que, em média, um estudante dedica 6 horas por dia aos estudos universitários, o custo por hora de ensino é estimado em R$ 20,29.
+De acordo com um artigo publicado pelo jornal da Universidade Estadual Paulista (Unesp) em 2019, o investimento anual por estudante em instituições federais de ensino superior alcançou a cifra de R$ 40.900,00. Usando o site de correção de inflação do Banco Central para o ano de 2023. O custo de um aluno de uma Universidade Federal está custando R$ 64.509,74 em 2023. Usando essa informação como base, podemos calcular o custo por aluno mensal, que corresponde a R$ 5.375,81. Em uma análise semanal, esse custo equivale a R$ 1.343,95, e quando dividido por dia (considerando um projeto de educação contínua ao longo dos sete dias da semana), o custo diário se resume a R$ 192,00. Levando em consideração que, em média, um estudante dedica 6 horas por dia aos estudos universitários, o custo por hora de ensino é estimado em R$ 32,00.
 
-A disciplina de MDS/EPS, possui 60 horas de carga horária, e considerando que os alunos irão trabalhar 4 horas de aula semanal mais  6 horas extra classe, o custo semanal por aluno será de R$ 202,9. Com um grupo de 14 alunos, o custo semanal para o grupo será de R$ 2.840,60. É importante ressaltar que esse custo pode variar ao longo do semestre.
+A disciplina de MDS/EPS, possui 60 horas de carga horária, e considerando que os alunos irão trabalhar 4 horas de aula semanal mais  6 horas extra classe, o custo semanal por aluno será de R$ 320,00. Com um grupo de 14 alunos, o custo semanal para o grupo será de R$ 4.480,00. É importante ressaltar que esse custo pode variar ao longo do semestre.
 
 ### Equipamento
 
