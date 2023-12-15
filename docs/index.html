@@ -1,27 +1,47 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>UnB-TV</title>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Description">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
-</head>
-<body>
-  <div id="app"></div>
-  <script>
-    window.$docsify = {
-      loadSidebar: true,
-      name: 'UnB-TV',
-      repo: 'https://github.com/fga-eps-mds/2023.2-UnB-TV-DOC'
-    };
-  </script>
-  <!-- Docsify v4 -->
-  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <head>
+    <meta charset="UTF-8" />
+    <title>UnB-TV</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="description" content="Description" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, minimum-scale=1.0"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css"
+    />
 
-  <!-- plugins -->
-  <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
-  <script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
-</body>
+    <link rel="icon" href="./assets/unbtv-icon.ico" />
+  </head>
+  <body>
+    <div id="app"></div>
+    <script>
+      window.$docsify = {
+        name: "UnB-TV",
+        repo: "https://github.com/fga-eps-mds/2023.2-UnB-TV-DOC",
+        loadSidebar: true,
+        logo: '/assets/unb-removebg-preview.png',
+        auto2top: true,
+        search: {
+          maxAge: 86400000, 
+          paths: 'auto',
+          placeholder: "Digite para buscar",
+          noData: 'Nenhum resultado encontrado.',
+          depth: 6,
+          hideOtherSidebarContent: false,
+        }
+      };
+    </script>
+    <!-- Docsify v4 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
+
+    <!-- plugins -->
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+    <script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
+  </body>
 </html>
