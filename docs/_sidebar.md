@@ -44,6 +44,7 @@
 -   **Gerência de configuração**
 
     -   [Gerência de configuração](./gerencia_configuracao/deploy.md)
+    -   [Gerar APK](./gerencia_configuracao/gerar_apk.md)
 
 -   **Sprints**
 
