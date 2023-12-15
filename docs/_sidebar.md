@@ -35,6 +35,7 @@
 
     -   [Lean Inception](./produto/lean-inception.md)
     -   [Backlog do Produto](./produto/backlog-produto.md)
+    -   [Melhorias Futuras](./produto/melhorias.md)
 
 -   **Arquitetura**
 
