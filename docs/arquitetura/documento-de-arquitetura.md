@@ -5,7 +5,7 @@
 
 Este documento detalha a estrutura do software de um projeto que incorpora Angular para o frontend. Ele é composto por quatro microsserviços desenvolvidos com FastAPI, um gateway em Node para facilitar a comunicação entre esses serviços e um banco de dados PostgreSQL, além de consumir a API do EduPlay para acessar os vídeos e programas ao vivo. A estrutura projetada tem foco na escalabilidade, resiliência e alto desempenho. Baseia-se no conceito de microsserviços, onde componentes distintos funcionam como serviços autônomos, interagindo por meio de interfaces claramente estabelecidas. Este é um esboço da arquitetura em um nível geral:
 
-![Arquitetura](../assets/arquitetura.svg)
+![Arquitetura](./Imagens/arquitetura.svg)
 <figcaption style="text-align: center !important">
     Fonte: Próprio autor
   </figcaption>
@@ -49,7 +49,7 @@ No projeto, o PostgreSQL é utilizado como o sistema de gerenciamento de banco d
 
 ### 4.3. Diagrama de implantação
 
-![diagrama-de-implantacao](./Imagens/implementação.svg)
+![diagrama-de-implantacao](./Imagens/implentacao.svg)
 
 
 ## 5. Diagrama Entidade Relacionamento (DER)
