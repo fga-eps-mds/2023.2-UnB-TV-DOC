@@ -40,6 +40,10 @@
 
     -   [Documento de Arquitetura](./arquitetura/documento-de-arquitetura.md)
 
+-   **Gerência de configuração**
+
+    -   [Gerência de configuração](./gerencia_configuracao/deploy.md)
+
 -   **Sprints**
 
     -   [Sprint 1](./sprints/sprint1.md)
