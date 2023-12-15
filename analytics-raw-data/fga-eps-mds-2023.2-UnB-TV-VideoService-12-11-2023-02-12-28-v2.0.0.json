@@ -1,1 +1,660 @@
-{"paging":{"pageIndex":1,"pageSize":100,"total":26},"baseComponent":{"id":"AYvWCLOVjDbrlWMoa1pm","key":"fga-eps-mds_2023.2-UnB-TV-VideoService","name":"2023.2-UnB-TV-VideoService","qualifier":"TRK","measures":[{"metric":"comment_lines_density","value":"1.5","bestValue":false},{"metric":"complexity","value":"29"},{"metric":"coverage","value":"98.9","bestValue":false},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"files","value":"15"},{"metric":"functions","value":"13"},{"metric":"ncloc","value":"197"},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"test_errors","value":"0","bestValue":true},{"metric":"test_execution_time","value":"2576"},{"metric":"test_failures","value":"0","bestValue":true},{"metric":"tests","value":"9"}]},"components":[{"id":"AYv5W51SeJWQ-Op23HSC","key":"fga-eps-mds_2023.2-UnB-TV-VideoService:src/__init__.py","name":"__init__.py","qualifier":"FIL","path":"src/__init__.py","language":"py","measures":[{"metric":"complexity","value":"0"},{"metric":"files","value":"1"},{"metric":"functions","value":"0"},{"metric":"ncloc","value":"0"},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"test_failures","value":"0","bestValue":true},{"metric":"test_errors","value":"0","bestValue":true}]},{"id":"AYv5W51SeJWQ-Op23HR9","key":"fga-eps-mds_2023.2-UnB-TV-VideoService:src/repository/__init__.py","name":"__init__.py","qualifier":"FIL","path":"src/repository/__init__.py","language":"py","measures":[{"metric":"complexity","value":"0"},{"metric":"files","value":"1"},{"metric":"functions","value":"0"},{"metric":"ncloc","value":"0"},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"test_failures","value":"0","bestValue":true},{"metric":"test_errors","value":"0","bestValue":true}]},{"id":"AYv5W51SeJWQ-Op23HR6","key":"fga-eps-mds_2023.2-UnB-TV-VideoService:src/constants/__init__.py","name":"__init__.py","qualifier":"FIL","path":"src/constants/__init__.py","language":"py","measures":[{"metric":"complexity","value":"0"},{"metric":"files","value":"1"},{"metric":"functions","value":"0"},{"metric":"ncloc","value":"0"},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"test_failures","value":"0","bestValue":true},{"metric":"test_errors","value":"0","bestValue":true}]},{"id":"AYv5W51SeJWQ-Op23HSA","key":"fga-eps-mds_2023.2-UnB-TV-VideoService:src/domain/__init__.py","name":"__init__.py","qualifier":"FIL","path":"src/domain/__init__.py","language":"py","measures":[{"metric":"complexity","value":"0"},{"metric":"files","value":"1"},{"metric":"functions","value":"0"},{"metric":"ncloc","value":"0"},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"test_failures","value":"0","bestValue":true},{"metric":"test_errors","value":"0","bestValue":true}]},{"id":"AYv5W51SeJWQ-Op23HSD","key":"fga-eps-mds_2023.2-UnB-TV-VideoService:src/model/__init__.py","name":"__init__.py","qualifier":"FIL","path":"src/model/__init__.py","language":"py","measures":[{"metric":"complexity","value":"0"},{"metric":"files","value":"1"},{"metric":"functions","value":"0"},{"metric":"ncloc","value":"0"},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"test_failures","value":"0","bestValue":true},{"metric":"test_errors","value":"0","bestValue":true}]},{"id":"AYv5W51SeJWQ-Op23HSH","key":"fga-eps-mds_2023.2-UnB-TV-VideoService:src/controller/__init__.py","name":"__init__.py","qualifier":"FIL","path":"src/controller/__init__.py","language":"py","measures":[{"metric":"complexity","value":"0"},{"metric":"files","value":"1"},{"metric":"functions","value":"0"},{"metric":"ncloc","value":"0"},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"test_failures","value":"0","bestValue":true},{"metric":"test_errors","value":"0","bestValue":true}]},{"id":"AYv5W51SeJWQ-Op23HSR","key":"fga-eps-mds_2023.2-UnB-TV-VideoService:tests/__init__.py","name":"__init__.py","qualifier":"UTS","path":"tests/__init__.py","language":"py","measures":[{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"test_failures","value":"0","bestValue":true},{"metric":"test_errors","value":"0","bestValue":true}]},{"id":"AYv5W51SeJWQ-Op23HSG","key":"fga-eps-mds_2023.2-UnB-TV-VideoService:src/controller/commentController.py","name":"commentController.py","qualifier":"FIL","path":"src/controller/commentController.py","language":"py","measures":[{"metric":"comment_lines_density","value":"0.0","bestValue":false},{"metric":"complexity","value":"6"},{"metric":"coverage","value":"100.0","bestValue":true},{"metric":"files","value":"1"},{"metric":"functions","value":"4"},{"metric":"ncloc","value":"30"},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"test_failures","value":"0","bestValue":true},{"metric":"test_errors","value":"0","bestValue":true}]},{"id":"AYv5W51SeJWQ-Op23HSE","key":"fga-eps-mds_2023.2-UnB-TV-VideoService:src/model/commentModel.py","name":"commentModel.py","qualifier":"FIL","path":"src/model/commentModel.py","language":"py","measures":[{"metric":"comment_lines_density","value":"7.1","bestValue":false},{"metric":"complexity","value":"0"},{"metric":"coverage","value":"100.0","bestValue":true},{"metric":"files","value":"1"},{"metric":"functions","value":"0"},{"metric":"ncloc","value":"13"},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"test_failures","value":"0","bestValue":true},{"metric":"test_errors","value":"0","bestValue":true}]},{"id":"AYv5W51SeJWQ-Op23HR8","key":"fga-eps-mds_2023.2-UnB-TV-VideoService:src/repository/commentRepository.py","name":"commentRepository.py","qualifier":"FIL","path":"src/repository/commentRepository.py","language":"py","measures":[{"metric":"comment_lines_density","value":"4.0","bestValue":false},{"metric":"complexity","value":"6"},{"metric":"coverage","value":"100.0","bestValue":true},{"metric":"files","value":"1"},{"metric":"functions","value":"5"},{"metric":"ncloc","value":"24"},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"test_failures","value":"0","bestValue":true},{"metric":"test_errors","value":"0","bestValue":true}]},{"id":"AYv5W51SeJWQ-Op23HR_","key":"fga-eps-mds_2023.2-UnB-TV-VideoService:src/domain/commentSchema.py","name":"commentSchema.py","qualifier":"FIL","path":"src/domain/commentSchema.py","language":"py","measures":[{"metric":"comment_lines_density","value":"0.0","bestValue":false},{"metric":"complexity","value":"0"},{"metric":"coverage","value":"100.0","bestValue":true},{"metric":"files","value":"1"},{"metric":"functions","value":"0"},{"metric":"ncloc","value":"18"},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"test_failures","value":"0","bestValue":true},{"metric":"test_errors","value":"0","bestValue":true}]},{"id":"AYv5W51SeJWQ-Op23HR7","key":"fga-eps-mds_2023.2-UnB-TV-VideoService:src/constants","name":"constants","qualifier":"DIR","path":"src/constants","measures":[{"metric":"comment_lines_density","value":"0.0","bestValue":false},{"metric":"complexity","value":"0"},{"metric":"coverage","value":"100.0","bestValue":true},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"files","value":"2"},{"metric":"functions","value":"0"},{"metric":"ncloc","value":"8"},{"metric":"security_rating","value":"1.0","bestValue":true}]},{"id":"AYv5W51SeJWQ-Op23HSJ","key":"fga-eps-mds_2023.2-UnB-TV-VideoService:src/controller","name":"controller","qualifier":"DIR","path":"src/controller","measures":[{"metric":"comment_lines_density","value":"0.0","bestValue":false},{"metric":"complexity","value":"18"},{"metric":"coverage","value":"97.1","bestValue":false},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"files","value":"3"},{"metric":"functions","value":"5"},{"metric":"ncloc","value":"76"},{"metric":"security_rating","value":"1.0","bestValue":true}]},{"id":"AYv5W51SeJWQ-Op23HSL","key":"fga-eps-mds_2023.2-UnB-TV-VideoService:src/database.py","name":"database.py","qualifier":"FIL","path":"src/database.py","language":"py","measures":[{"metric":"comment_lines_density","value":"0.0","bestValue":false},{"metric":"complexity","value":"1"},{"metric":"coverage","value":"100.0","bestValue":true},{"metric":"files","value":"1"},{"metric":"functions","value":"1"},{"metric":"ncloc","value":"18"},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"test_failures","value":"0","bestValue":true},{"metric":"test_errors","value":"0","bestValue":true}]},{"id":"AYv5W51SeJWQ-Op23HSB","key":"fga-eps-mds_2023.2-UnB-TV-VideoService:src/domain","name":"domain","qualifier":"DIR","path":"src/domain","measures":[{"metric":"comment_lines_density","value":"0.0","bestValue":false},{"metric":"complexity","value":"0"},{"metric":"coverage","value":"100.0","bestValue":true},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"files","value":"2"},{"metric":"functions","value":"0"},{"metric":"ncloc","value":"18"},{"metric":"security_rating","value":"1.0","bestValue":true}]},{"id":"AYv5W51SeJWQ-Op23HSM","key":"fga-eps-mds_2023.2-UnB-TV-VideoService:src/utils/enumeration.py","name":"enumeration.py","qualifier":"FIL","path":"src/utils/enumeration.py","language":"py","measures":[{"metric":"comment_lines_density","value":"0.0","bestValue":false},{"metric":"complexity","value":"1"},{"metric":"coverage","value":"100.0","bestValue":true},{"metric":"files","value":"1"},{"metric":"functions","value":"1"},{"metric":"ncloc","value":"12"},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"test_failures","value":"0","bestValue":true},{"metric":"test_errors","value":"0","bestValue":true}]},{"id":"AYv5W51SeJWQ-Op23HR5","key":"fga-eps-mds_2023.2-UnB-TV-VideoService:src/constants/errorMessages.py","name":"errorMessages.py","qualifier":"FIL","path":"src/constants/errorMessages.py","language":"py","measures":[{"metric":"comment_lines_density","value":"0.0","bestValue":false},{"metric":"complexity","value":"0"},{"metric":"coverage","value":"100.0","bestValue":true},{"metric":"files","value":"1"},{"metric":"functions","value":"0"},{"metric":"ncloc","value":"8"},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"test_failures","value":"0","bestValue":true},{"metric":"test_errors","value":"0","bestValue":true}]},{"id":"AYv5W51SeJWQ-Op23HSK","key":"fga-eps-mds_2023.2-UnB-TV-VideoService:src/main.py","name":"main.py","qualifier":"FIL","path":"src/main.py","language":"py","measures":[{"metric":"comment_lines_density","value":"3.4","bestValue":false},{"metric":"complexity","value":"3"},{"metric":"coverage","value":"100.0","bestValue":true},{"metric":"files","value":"1"},{"metric":"functions","value":"1"},{"metric":"ncloc","value":"28"},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"test_failures","value":"0","bestValue":true},{"metric":"test_errors","value":"0","bestValue":true}]},{"id":"AYv5W51SeJWQ-Op23HSF","key":"fga-eps-mds_2023.2-UnB-TV-VideoService:src/model","name":"model","qualifier":"DIR","path":"src/model","measures":[{"metric":"comment_lines_density","value":"7.1","bestValue":false},{"metric":"complexity","value":"0"},{"metric":"coverage","value":"100.0","bestValue":true},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"files","value":"2"},{"metric":"functions","value":"0"},{"metric":"ncloc","value":"13"},{"metric":"security_rating","value":"1.0","bestValue":true}]},{"id":"AYv5W51SeJWQ-Op23HR-","key":"fga-eps-mds_2023.2-UnB-TV-VideoService:src/repository","name":"repository","qualifier":"DIR","path":"src/repository","measures":[{"metric":"comment_lines_density","value":"4.0","bestValue":false},{"metric":"complexity","value":"6"},{"metric":"coverage","value":"100.0","bestValue":true},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"files","value":"2"},{"metric":"functions","value":"5"},{"metric":"ncloc","value":"24"},{"metric":"security_rating","value":"1.0","bestValue":true}]},{"id":"AYv5W51SeJWQ-Op23HSI","key":"fga-eps-mds_2023.2-UnB-TV-VideoService:src/controller/scheduleController.py","name":"scheduleController.py","qualifier":"FIL","path":"src/controller/scheduleController.py","language":"py","measures":[{"metric":"comment_lines_density","value":"0.0","bestValue":false},{"metric":"complexity","value":"12"},{"metric":"coverage","value":"95.2","bestValue":false},{"metric":"files","value":"1"},{"metric":"functions","value":"1"},{"metric":"ncloc","value":"46"},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"test_failures","value":"0","bestValue":true},{"metric":"test_errors","value":"0","bestValue":true}]},{"id":"AYv5W51SeJWQ-Op23HSO","key":"fga-eps-mds_2023.2-UnB-TV-VideoService:src","name":"src","qualifier":"DIR","path":"src","measures":[{"metric":"comment_lines_density","value":"1.5","bestValue":false},{"metric":"complexity","value":"29"},{"metric":"coverage","value":"98.9","bestValue":false},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"files","value":"15"},{"metric":"functions","value":"13"},{"metric":"ncloc","value":"197"},{"metric":"security_rating","value":"1.0","bestValue":true}]},{"id":"AYv5W51SeJWQ-Op23HSQ","key":"fga-eps-mds_2023.2-UnB-TV-VideoService:tests/test_comments.py","name":"test_comments.py","qualifier":"UTS","path":"tests/test_comments.py","language":"py","measures":[{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"test_execution_time","value":"90"},{"metric":"tests","value":"6"},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"test_failures","value":"0","bestValue":true},{"metric":"test_errors","value":"0","bestValue":true}]},{"id":"AYv5W51SeJWQ-Op23HSP","key":"fga-eps-mds_2023.2-UnB-TV-VideoService:tests/test_schedule.py","name":"test_schedule.py","qualifier":"UTS","path":"tests/test_schedule.py","language":"py","measures":[{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"test_execution_time","value":"2486"},{"metric":"tests","value":"3"},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"test_failures","value":"0","bestValue":true},{"metric":"test_errors","value":"0","bestValue":true}]},{"id":"AYv5W51SeJWQ-Op23HSS","key":"fga-eps-mds_2023.2-UnB-TV-VideoService:tests","name":"tests","qualifier":"DIR","path":"tests","measures":[{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"test_errors","value":"0","bestValue":true},{"metric":"test_execution_time","value":"2576"},{"metric":"test_failures","value":"0","bestValue":true},{"metric":"tests","value":"9"}]},{"id":"AYv5W51SeJWQ-Op23HSN","key":"fga-eps-mds_2023.2-UnB-TV-VideoService:src/utils","name":"utils","qualifier":"DIR","path":"src/utils","measures":[{"metric":"comment_lines_density","value":"0.0","bestValue":false},{"metric":"complexity","value":"1"},{"metric":"coverage","value":"100.0","bestValue":true},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"files","value":"1"},{"metric":"functions","value":"1"},{"metric":"ncloc","value":"12"},{"metric":"security_rating","value":"1.0","bestValue":true}]}]}
+{
+  "paging": { "pageIndex": 1, "pageSize": 100, "total": 26 },
+  "baseComponent": {
+    "id": "AYvWCLOVjDbrlWMoa1pm",
+    "key": "fga-eps-mds_2023.2-UnB-TV-VideoService",
+    "name": "2023.2-UnB-TV-VideoService",
+    "qualifier": "TRK",
+    "measures": [
+      { "metric": "comment_lines_density", "value": "1.5", "bestValue": false },
+      { "metric": "complexity", "value": "29" },
+      { "metric": "coverage", "value": "98.9", "bestValue": false },
+      {
+        "metric": "duplicated_lines_density",
+        "value": "0.0",
+        "bestValue": true
+      },
+      { "metric": "files", "value": "15" },
+      { "metric": "functions", "value": "13" },
+      { "metric": "ncloc", "value": "197" },
+      { "metric": "security_rating", "value": "1.0", "bestValue": true },
+      { "metric": "test_errors", "value": "0", "bestValue": true },
+      { "metric": "test_execution_time", "value": "2576" },
+      { "metric": "test_failures", "value": "0", "bestValue": true },
+      { "metric": "tests", "value": "9" }
+    ]
+  },
+  "components": [
+    {
+      "id": "AYv5W51SeJWQ-Op23HSC",
+      "key": "fga-eps-mds_2023.2-UnB-TV-VideoService:src/__init__.py",
+      "name": "__init__.py",
+      "qualifier": "FIL",
+      "path": "src/__init__.py",
+      "language": "py",
+      "measures": [
+        { "metric": "complexity", "value": "0" },
+        { "metric": "files", "value": "1" },
+        { "metric": "functions", "value": "0" },
+        { "metric": "ncloc", "value": "0" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true },
+        { "metric": "test_errors", "value": "0", "bestValue": true }
+      ]
+    },
+    {
+      "id": "AYv5W51SeJWQ-Op23HR9",
+      "key": "fga-eps-mds_2023.2-UnB-TV-VideoService:src/repository/__init__.py",
+      "name": "__init__.py",
+      "qualifier": "FIL",
+      "path": "src/repository/__init__.py",
+      "language": "py",
+      "measures": [
+        { "metric": "complexity", "value": "0" },
+        { "metric": "files", "value": "1" },
+        { "metric": "functions", "value": "0" },
+        { "metric": "ncloc", "value": "0" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true },
+        { "metric": "test_errors", "value": "0", "bestValue": true }
+      ]
+    },
+    {
+      "id": "AYv5W51SeJWQ-Op23HR6",
+      "key": "fga-eps-mds_2023.2-UnB-TV-VideoService:src/constants/__init__.py",
+      "name": "__init__.py",
+      "qualifier": "FIL",
+      "path": "src/constants/__init__.py",
+      "language": "py",
+      "measures": [
+        { "metric": "complexity", "value": "0" },
+        { "metric": "files", "value": "1" },
+        { "metric": "functions", "value": "0" },
+        { "metric": "ncloc", "value": "0" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true },
+        { "metric": "test_errors", "value": "0", "bestValue": true }
+      ]
+    },
+    {
+      "id": "AYv5W51SeJWQ-Op23HSA",
+      "key": "fga-eps-mds_2023.2-UnB-TV-VideoService:src/domain/__init__.py",
+      "name": "__init__.py",
+      "qualifier": "FIL",
+      "path": "src/domain/__init__.py",
+      "language": "py",
+      "measures": [
+        { "metric": "complexity", "value": "0" },
+        { "metric": "files", "value": "1" },
+        { "metric": "functions", "value": "0" },
+        { "metric": "ncloc", "value": "0" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true },
+        { "metric": "test_errors", "value": "0", "bestValue": true }
+      ]
+    },
+    {
+      "id": "AYv5W51SeJWQ-Op23HSD",
+      "key": "fga-eps-mds_2023.2-UnB-TV-VideoService:src/model/__init__.py",
+      "name": "__init__.py",
+      "qualifier": "FIL",
+      "path": "src/model/__init__.py",
+      "language": "py",
+      "measures": [
+        { "metric": "complexity", "value": "0" },
+        { "metric": "files", "value": "1" },
+        { "metric": "functions", "value": "0" },
+        { "metric": "ncloc", "value": "0" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true },
+        { "metric": "test_errors", "value": "0", "bestValue": true }
+      ]
+    },
+    {
+      "id": "AYv5W51SeJWQ-Op23HSH",
+      "key": "fga-eps-mds_2023.2-UnB-TV-VideoService:src/controller/__init__.py",
+      "name": "__init__.py",
+      "qualifier": "FIL",
+      "path": "src/controller/__init__.py",
+      "language": "py",
+      "measures": [
+        { "metric": "complexity", "value": "0" },
+        { "metric": "files", "value": "1" },
+        { "metric": "functions", "value": "0" },
+        { "metric": "ncloc", "value": "0" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true },
+        { "metric": "test_errors", "value": "0", "bestValue": true }
+      ]
+    },
+    {
+      "id": "AYv5W51SeJWQ-Op23HSR",
+      "key": "fga-eps-mds_2023.2-UnB-TV-VideoService:tests/__init__.py",
+      "name": "__init__.py",
+      "qualifier": "UTS",
+      "path": "tests/__init__.py",
+      "language": "py",
+      "measures": [
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true },
+        { "metric": "test_errors", "value": "0", "bestValue": true }
+      ]
+    },
+    {
+      "id": "AYv5W51SeJWQ-Op23HSG",
+      "key": "fga-eps-mds_2023.2-UnB-TV-VideoService:src/controller/commentController.py",
+      "name": "commentController.py",
+      "qualifier": "FIL",
+      "path": "src/controller/commentController.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "complexity", "value": "6" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "files", "value": "1" },
+        { "metric": "functions", "value": "4" },
+        { "metric": "ncloc", "value": "30" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true },
+        { "metric": "test_errors", "value": "0", "bestValue": true }
+      ]
+    },
+    {
+      "id": "AYv5W51SeJWQ-Op23HSE",
+      "key": "fga-eps-mds_2023.2-UnB-TV-VideoService:src/model/commentModel.py",
+      "name": "commentModel.py",
+      "qualifier": "FIL",
+      "path": "src/model/commentModel.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "comment_lines_density",
+          "value": "7.1",
+          "bestValue": false
+        },
+        { "metric": "complexity", "value": "0" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "files", "value": "1" },
+        { "metric": "functions", "value": "0" },
+        { "metric": "ncloc", "value": "13" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true },
+        { "metric": "test_errors", "value": "0", "bestValue": true }
+      ]
+    },
+    {
+      "id": "AYv5W51SeJWQ-Op23HR8",
+      "key": "fga-eps-mds_2023.2-UnB-TV-VideoService:src/repository/commentRepository.py",
+      "name": "commentRepository.py",
+      "qualifier": "FIL",
+      "path": "src/repository/commentRepository.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "comment_lines_density",
+          "value": "4.0",
+          "bestValue": false
+        },
+        { "metric": "complexity", "value": "6" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "files", "value": "1" },
+        { "metric": "functions", "value": "5" },
+        { "metric": "ncloc", "value": "24" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true },
+        { "metric": "test_errors", "value": "0", "bestValue": true }
+      ]
+    },
+    {
+      "id": "AYv5W51SeJWQ-Op23HR_",
+      "key": "fga-eps-mds_2023.2-UnB-TV-VideoService:src/domain/commentSchema.py",
+      "name": "commentSchema.py",
+      "qualifier": "FIL",
+      "path": "src/domain/commentSchema.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "complexity", "value": "0" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "files", "value": "1" },
+        { "metric": "functions", "value": "0" },
+        { "metric": "ncloc", "value": "18" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true },
+        { "metric": "test_errors", "value": "0", "bestValue": true }
+      ]
+    },
+    {
+      "id": "AYv5W51SeJWQ-Op23HR7",
+      "key": "fga-eps-mds_2023.2-UnB-TV-VideoService:src/constants",
+      "name": "constants",
+      "qualifier": "DIR",
+      "path": "src/constants",
+      "measures": [
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "complexity", "value": "0" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "files", "value": "2" },
+        { "metric": "functions", "value": "0" },
+        { "metric": "ncloc", "value": "8" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true }
+      ]
+    },
+    {
+      "id": "AYv5W51SeJWQ-Op23HSJ",
+      "key": "fga-eps-mds_2023.2-UnB-TV-VideoService:src/controller",
+      "name": "controller",
+      "qualifier": "DIR",
+      "path": "src/controller",
+      "measures": [
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "complexity", "value": "18" },
+        { "metric": "coverage", "value": "97.1", "bestValue": false },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "files", "value": "3" },
+        { "metric": "functions", "value": "5" },
+        { "metric": "ncloc", "value": "76" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true }
+      ]
+    },
+    {
+      "id": "AYv5W51SeJWQ-Op23HSL",
+      "key": "fga-eps-mds_2023.2-UnB-TV-VideoService:src/database.py",
+      "name": "database.py",
+      "qualifier": "FIL",
+      "path": "src/database.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "complexity", "value": "1" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "files", "value": "1" },
+        { "metric": "functions", "value": "1" },
+        { "metric": "ncloc", "value": "18" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true },
+        { "metric": "test_errors", "value": "0", "bestValue": true }
+      ]
+    },
+    {
+      "id": "AYv5W51SeJWQ-Op23HSB",
+      "key": "fga-eps-mds_2023.2-UnB-TV-VideoService:src/domain",
+      "name": "domain",
+      "qualifier": "DIR",
+      "path": "src/domain",
+      "measures": [
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "complexity", "value": "0" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "files", "value": "2" },
+        { "metric": "functions", "value": "0" },
+        { "metric": "ncloc", "value": "18" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true }
+      ]
+    },
+    {
+      "id": "AYv5W51SeJWQ-Op23HSM",
+      "key": "fga-eps-mds_2023.2-UnB-TV-VideoService:src/utils/enumeration.py",
+      "name": "enumeration.py",
+      "qualifier": "FIL",
+      "path": "src/utils/enumeration.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "complexity", "value": "1" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "files", "value": "1" },
+        { "metric": "functions", "value": "1" },
+        { "metric": "ncloc", "value": "12" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true },
+        { "metric": "test_errors", "value": "0", "bestValue": true }
+      ]
+    },
+    {
+      "id": "AYv5W51SeJWQ-Op23HR5",
+      "key": "fga-eps-mds_2023.2-UnB-TV-VideoService:src/constants/errorMessages.py",
+      "name": "errorMessages.py",
+      "qualifier": "FIL",
+      "path": "src/constants/errorMessages.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "complexity", "value": "0" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "files", "value": "1" },
+        { "metric": "functions", "value": "0" },
+        { "metric": "ncloc", "value": "8" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true },
+        { "metric": "test_errors", "value": "0", "bestValue": true }
+      ]
+    },
+    {
+      "id": "AYv5W51SeJWQ-Op23HSK",
+      "key": "fga-eps-mds_2023.2-UnB-TV-VideoService:src/main.py",
+      "name": "main.py",
+      "qualifier": "FIL",
+      "path": "src/main.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "comment_lines_density",
+          "value": "3.4",
+          "bestValue": false
+        },
+        { "metric": "complexity", "value": "3" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "files", "value": "1" },
+        { "metric": "functions", "value": "1" },
+        { "metric": "ncloc", "value": "28" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true },
+        { "metric": "test_errors", "value": "0", "bestValue": true }
+      ]
+    },
+    {
+      "id": "AYv5W51SeJWQ-Op23HSF",
+      "key": "fga-eps-mds_2023.2-UnB-TV-VideoService:src/model",
+      "name": "model",
+      "qualifier": "DIR",
+      "path": "src/model",
+      "measures": [
+        {
+          "metric": "comment_lines_density",
+          "value": "7.1",
+          "bestValue": false
+        },
+        { "metric": "complexity", "value": "0" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "files", "value": "2" },
+        { "metric": "functions", "value": "0" },
+        { "metric": "ncloc", "value": "13" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true }
+      ]
+    },
+    {
+      "id": "AYv5W51SeJWQ-Op23HR-",
+      "key": "fga-eps-mds_2023.2-UnB-TV-VideoService:src/repository",
+      "name": "repository",
+      "qualifier": "DIR",
+      "path": "src/repository",
+      "measures": [
+        {
+          "metric": "comment_lines_density",
+          "value": "4.0",
+          "bestValue": false
+        },
+        { "metric": "complexity", "value": "6" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "files", "value": "2" },
+        { "metric": "functions", "value": "5" },
+        { "metric": "ncloc", "value": "24" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true }
+      ]
+    },
+    {
+      "id": "AYv5W51SeJWQ-Op23HSI",
+      "key": "fga-eps-mds_2023.2-UnB-TV-VideoService:src/controller/scheduleController.py",
+      "name": "scheduleController.py",
+      "qualifier": "FIL",
+      "path": "src/controller/scheduleController.py",
+      "language": "py",
+      "measures": [
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "complexity", "value": "12" },
+        { "metric": "coverage", "value": "95.2", "bestValue": false },
+        { "metric": "files", "value": "1" },
+        { "metric": "functions", "value": "1" },
+        { "metric": "ncloc", "value": "46" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true },
+        { "metric": "test_errors", "value": "0", "bestValue": true }
+      ]
+    },
+    {
+      "id": "AYv5W51SeJWQ-Op23HSO",
+      "key": "fga-eps-mds_2023.2-UnB-TV-VideoService:src",
+      "name": "src",
+      "qualifier": "DIR",
+      "path": "src",
+      "measures": [
+        {
+          "metric": "comment_lines_density",
+          "value": "1.5",
+          "bestValue": false
+        },
+        { "metric": "complexity", "value": "29" },
+        { "metric": "coverage", "value": "98.9", "bestValue": false },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "files", "value": "15" },
+        { "metric": "functions", "value": "13" },
+        { "metric": "ncloc", "value": "197" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true }
+      ]
+    },
+    {
+      "id": "AYv5W51SeJWQ-Op23HSQ",
+      "key": "fga-eps-mds_2023.2-UnB-TV-VideoService:tests/test_comments.py",
+      "name": "test_comments.py",
+      "qualifier": "UTS",
+      "path": "tests/test_comments.py",
+      "language": "py",
+      "measures": [
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "test_execution_time", "value": "90" },
+        { "metric": "tests", "value": "6" },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true },
+        { "metric": "test_errors", "value": "0", "bestValue": true }
+      ]
+    },
+    {
+      "id": "AYv5W51SeJWQ-Op23HSP",
+      "key": "fga-eps-mds_2023.2-UnB-TV-VideoService:tests/test_schedule.py",
+      "name": "test_schedule.py",
+      "qualifier": "UTS",
+      "path": "tests/test_schedule.py",
+      "language": "py",
+      "measures": [
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "test_execution_time", "value": "2486" },
+        { "metric": "tests", "value": "3" },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "test_failures", "value": "0", "bestValue": true },
+        { "metric": "test_errors", "value": "0", "bestValue": true }
+      ]
+    },
+    {
+      "id": "AYv5W51SeJWQ-Op23HSS",
+      "key": "fga-eps-mds_2023.2-UnB-TV-VideoService:tests",
+      "name": "tests",
+      "qualifier": "DIR",
+      "path": "tests",
+      "measures": [
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        { "metric": "test_execution_time", "value": "2576" },
+        { "metric": "test_failures", "value": "0", "bestValue": true },
+        { "metric": "tests", "value": "9" }
+      ]
+    },
+    {
+      "id": "AYv5W51SeJWQ-Op23HSN",
+      "key": "fga-eps-mds_2023.2-UnB-TV-VideoService:src/utils",
+      "name": "utils",
+      "qualifier": "DIR",
+      "path": "src/utils",
+      "measures": [
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "complexity", "value": "1" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "files", "value": "1" },
+        { "metric": "functions", "value": "1" },
+        { "metric": "ncloc", "value": "12" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true }
+      ]
+    }
+  ]
+}

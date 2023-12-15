@@ -1,1 +1,730 @@
-{"paging":{"pageIndex":1,"pageSize":100,"total":29},"baseComponent":{"id":"AYtT3NdwB2h75p7CVfc3","key":"fga-eps-mds_2023.2-UnB-TV-Users","name":"2023.2-UnB-TV-Users","qualifier":"TRK","measures":[{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"functions","value":"40"},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"coverage","value":"100.0","bestValue":true},{"metric":"ncloc","value":"516"},{"metric":"comment_lines_density","value":"1.7","bestValue":false},{"metric":"complexity","value":"85"},{"metric":"files","value":"21"}]},"components":[{"key":"fga-eps-mds_2023.2-UnB-TV-Users:src/domain/__init__.py","name":"__init__.py","qualifier":"FIL","path":"src/domain/__init__.py","language":"py","measures":[{"metric":"functions","value":"0"},{"metric":"ncloc","value":"0"},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"complexity","value":"0"},{"metric":"files","value":"1"},{"metric":"test_errors","value":"0","bestValue":true},{"metric":"test_failures","value":"0","bestValue":true},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true}]},{"key":"fga-eps-mds_2023.2-UnB-TV-Users:src/domain/models/__init__.py","name":"__init__.py","qualifier":"FIL","path":"src/domain/models/__init__.py","language":"py","measures":[{"metric":"functions","value":"0"},{"metric":"ncloc","value":"0"},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"complexity","value":"0"},{"metric":"files","value":"1"},{"metric":"test_errors","value":"0","bestValue":true},{"metric":"test_failures","value":"0","bestValue":true},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true}]},{"key":"fga-eps-mds_2023.2-UnB-TV-Users:src/repository/__init__.py","name":"__init__.py","qualifier":"FIL","path":"src/repository/__init__.py","language":"py","measures":[{"metric":"functions","value":"0"},{"metric":"ncloc","value":"0"},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"complexity","value":"0"},{"metric":"files","value":"1"},{"metric":"test_errors","value":"0","bestValue":true},{"metric":"test_failures","value":"0","bestValue":true},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true}]},{"key":"fga-eps-mds_2023.2-UnB-TV-Users:src/model/__init__.py","name":"__init__.py","qualifier":"FIL","path":"src/model/__init__.py","language":"py","measures":[{"metric":"functions","value":"0"},{"metric":"ncloc","value":"0"},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"complexity","value":"0"},{"metric":"files","value":"1"},{"metric":"test_errors","value":"0","bestValue":true},{"metric":"test_failures","value":"0","bestValue":true},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true}]},{"key":"fga-eps-mds_2023.2-UnB-TV-Users:src/controller/__init__.py","name":"__init__.py","qualifier":"FIL","path":"src/controller/__init__.py","language":"py","measures":[{"metric":"functions","value":"0"},{"metric":"ncloc","value":"0"},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"complexity","value":"0"},{"metric":"files","value":"1"},{"metric":"test_errors","value":"0","bestValue":true},{"metric":"test_failures","value":"0","bestValue":true},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true}]},{"key":"fga-eps-mds_2023.2-UnB-TV-Users:src/constants/__init__.py","name":"__init__.py","qualifier":"FIL","path":"src/constants/__init__.py","language":"py","measures":[{"metric":"functions","value":"0"},{"metric":"ncloc","value":"0"},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"complexity","value":"0"},{"metric":"files","value":"1"},{"metric":"test_errors","value":"0","bestValue":true},{"metric":"test_failures","value":"0","bestValue":true},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true}]},{"key":"fga-eps-mds_2023.2-UnB-TV-Users:src/utils/__init__.py","name":"__init__.py","qualifier":"FIL","path":"src/utils/__init__.py","language":"py","measures":[{"metric":"functions","value":"0"},{"metric":"ncloc","value":"0"},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"complexity","value":"0"},{"metric":"files","value":"1"},{"metric":"test_errors","value":"0","bestValue":true},{"metric":"test_failures","value":"0","bestValue":true},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true}]},{"key":"fga-eps-mds_2023.2-UnB-TV-Users:src/__init__.py","name":"__init__.py","qualifier":"FIL","path":"src/__init__.py","language":"py","measures":[{"metric":"functions","value":"0"},{"metric":"ncloc","value":"0"},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"complexity","value":"0"},{"metric":"files","value":"1"},{"metric":"test_errors","value":"0","bestValue":true},{"metric":"test_failures","value":"0","bestValue":true},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true}]},{"key":"fga-eps-mds_2023.2-UnB-TV-Users:src/controller/authController.py","name":"authController.py","qualifier":"FIL","path":"src/controller/authController.py","language":"py","measures":[{"metric":"functions","value":"10"},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"complexity","value":"32"},{"metric":"files","value":"1"},{"metric":"coverage","value":"100.0","bestValue":true},{"metric":"ncloc","value":"116"},{"metric":"comment_lines_density","value":"2.5","bestValue":false},{"metric":"test_errors","value":"0","bestValue":true},{"metric":"test_failures","value":"0","bestValue":true},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true}]},{"key":"fga-eps-mds_2023.2-UnB-TV-Users:src/domain/authSchema.py","name":"authSchema.py","qualifier":"FIL","path":"src/domain/authSchema.py","language":"py","measures":[{"metric":"functions","value":"0"},{"metric":"comment_lines_density","value":"0.0","bestValue":false},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"complexity","value":"0"},{"metric":"files","value":"1"},{"metric":"coverage","value":"100.0","bestValue":true},{"metric":"ncloc","value":"36"},{"metric":"test_errors","value":"0","bestValue":true},{"metric":"test_failures","value":"0","bestValue":true},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true}]},{"key":"fga-eps-mds_2023.2-UnB-TV-Users:src/constants","name":"constants","qualifier":"DIR","path":"src/constants","measures":[{"metric":"functions","value":"0"},{"metric":"ncloc","value":"16"},{"metric":"comment_lines_density","value":"0.0","bestValue":false},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"complexity","value":"0"},{"metric":"files","value":"2"},{"metric":"coverage","value":"100.0","bestValue":true}]},{"key":"fga-eps-mds_2023.2-UnB-TV-Users:src/controller","name":"controller","qualifier":"DIR","path":"src/controller","measures":[{"metric":"functions","value":"16"},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"complexity","value":"50"},{"metric":"files","value":"3"},{"metric":"coverage","value":"100.0","bestValue":true},{"metric":"ncloc","value":"182"},{"metric":"comment_lines_density","value":"2.7","bestValue":false}]},{"key":"fga-eps-mds_2023.2-UnB-TV-Users:src/database.py","name":"database.py","qualifier":"FIL","path":"src/database.py","language":"py","measures":[{"metric":"functions","value":"1"},{"metric":"ncloc","value":"18"},{"metric":"comment_lines_density","value":"0.0","bestValue":false},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"complexity","value":"1"},{"metric":"files","value":"1"},{"metric":"coverage","value":"100.0","bestValue":true},{"metric":"test_errors","value":"0","bestValue":true},{"metric":"test_failures","value":"0","bestValue":true},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true}]},{"key":"fga-eps-mds_2023.2-UnB-TV-Users:src/domain","name":"domain","qualifier":"DIR","path":"src/domain","measures":[{"metric":"coverage","value":"100.0","bestValue":true},{"metric":"functions","value":"0"},{"metric":"ncloc","value":"66"},{"metric":"comment_lines_density","value":"0.0","bestValue":false},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"complexity","value":"0"},{"metric":"files","value":"4"}]},{"key":"fga-eps-mds_2023.2-UnB-TV-Users:src/utils/dotenv.py","name":"dotenv.py","qualifier":"FIL","path":"src/utils/dotenv.py","language":"py","measures":[{"metric":"functions","value":"1"},{"metric":"ncloc","value":"8"},{"metric":"comment_lines_density","value":"0.0","bestValue":false},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"complexity","value":"3"},{"metric":"files","value":"1"},{"metric":"coverage","value":"100.0","bestValue":true},{"metric":"test_errors","value":"0","bestValue":true},{"metric":"test_failures","value":"0","bestValue":true},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true}]},{"key":"fga-eps-mds_2023.2-UnB-TV-Users:src/utils/enumeration.py","name":"enumeration.py","qualifier":"FIL","path":"src/utils/enumeration.py","language":"py","measures":[{"metric":"functions","value":"1"},{"metric":"ncloc","value":"14"},{"metric":"comment_lines_density","value":"0.0","bestValue":false},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"complexity","value":"1"},{"metric":"files","value":"1"},{"metric":"coverage","value":"100.0","bestValue":true},{"metric":"test_errors","value":"0","bestValue":true},{"metric":"test_failures","value":"0","bestValue":true},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true}]},{"key":"fga-eps-mds_2023.2-UnB-TV-Users:src/constants/errorMessages.py","name":"errorMessages.py","qualifier":"FIL","path":"src/constants/errorMessages.py","language":"py","measures":[{"metric":"functions","value":"0"},{"metric":"ncloc","value":"16"},{"metric":"comment_lines_density","value":"0.0","bestValue":false},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"complexity","value":"0"},{"metric":"files","value":"1"},{"metric":"coverage","value":"100.0","bestValue":true},{"metric":"test_errors","value":"0","bestValue":true},{"metric":"test_failures","value":"0","bestValue":true},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true}]},{"key":"fga-eps-mds_2023.2-UnB-TV-Users:src/main.py","name":"main.py","qualifier":"FIL","path":"src/main.py","language":"py","measures":[{"metric":"functions","value":"1"},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"complexity","value":"3"},{"metric":"files","value":"1"},{"metric":"coverage","value":"100.0","bestValue":true},{"metric":"ncloc","value":"31"},{"metric":"comment_lines_density","value":"6.1","bestValue":false},{"metric":"test_errors","value":"0","bestValue":true},{"metric":"test_failures","value":"0","bestValue":true},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true}]},{"key":"fga-eps-mds_2023.2-UnB-TV-Users:src/model","name":"model","qualifier":"DIR","path":"src/model","measures":[{"metric":"functions","value":"0"},{"metric":"ncloc","value":"15"},{"metric":"comment_lines_density","value":"6.3","bestValue":false},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"complexity","value":"0"},{"metric":"files","value":"2"},{"metric":"coverage","value":"100.0","bestValue":true}]},{"key":"fga-eps-mds_2023.2-UnB-TV-Users:src/domain/models","name":"models","qualifier":"DIR","path":"src/domain/models","measures":[{"metric":"functions","value":"0"},{"metric":"ncloc","value":"0"},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"complexity","value":"0"},{"metric":"files","value":"1"}]},{"key":"fga-eps-mds_2023.2-UnB-TV-Users:src/repository","name":"repository","qualifier":"DIR","path":"src/repository","measures":[{"metric":"functions","value":"11"},{"metric":"coverage","value":"100.0","bestValue":true},{"metric":"comment_lines_density","value":"1.2","bestValue":false},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"files","value":"2"},{"metric":"ncloc","value":"80"},{"metric":"complexity","value":"16"}]},{"key":"fga-eps-mds_2023.2-UnB-TV-Users:src/utils/security.py","name":"security.py","qualifier":"FIL","path":"src/utils/security.py","language":"py","measures":[{"metric":"functions","value":"7"},{"metric":"ncloc","value":"42"},{"metric":"comment_lines_density","value":"0.0","bestValue":false},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"complexity","value":"9"},{"metric":"files","value":"1"},{"metric":"coverage","value":"100.0","bestValue":true},{"metric":"test_errors","value":"0","bestValue":true},{"metric":"test_failures","value":"0","bestValue":true},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true}]},{"key":"fga-eps-mds_2023.2-UnB-TV-Users:src/utils/send_mail.py","name":"send_mail.py","qualifier":"FIL","path":"src/utils/send_mail.py","language":"py","measures":[{"metric":"functions","value":"2"},{"metric":"ncloc","value":"44"},{"metric":"comment_lines_density","value":"0.0","bestValue":false},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"complexity","value":"2"},{"metric":"files","value":"1"},{"metric":"coverage","value":"100.0","bestValue":true},{"metric":"test_errors","value":"0","bestValue":true},{"metric":"test_failures","value":"0","bestValue":true},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true}]},{"key":"fga-eps-mds_2023.2-UnB-TV-Users:src","name":"src","qualifier":"DIR","path":"src","measures":[{"metric":"coverage","value":"100.0","bestValue":true},{"metric":"functions","value":"40"},{"metric":"ncloc","value":"516"},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"files","value":"21"},{"metric":"comment_lines_density","value":"1.7","bestValue":false},{"metric":"complexity","value":"85"}]},{"key":"fga-eps-mds_2023.2-UnB-TV-Users:src/controller/userController.py","name":"userController.py","qualifier":"FIL","path":"src/controller/userController.py","language":"py","measures":[{"metric":"functions","value":"6"},{"metric":"ncloc","value":"66"},{"metric":"comment_lines_density","value":"2.9","bestValue":false},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"complexity","value":"18"},{"metric":"files","value":"1"},{"metric":"coverage","value":"100.0","bestValue":true},{"metric":"test_errors","value":"0","bestValue":true},{"metric":"test_failures","value":"0","bestValue":true},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true}]},{"key":"fga-eps-mds_2023.2-UnB-TV-Users:src/model/userModel.py","name":"userModel.py","qualifier":"FIL","path":"src/model/userModel.py","language":"py","measures":[{"metric":"functions","value":"0"},{"metric":"ncloc","value":"15"},{"metric":"comment_lines_density","value":"6.3","bestValue":false},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"complexity","value":"0"},{"metric":"files","value":"1"},{"metric":"coverage","value":"100.0","bestValue":true},{"metric":"test_errors","value":"0","bestValue":true},{"metric":"test_failures","value":"0","bestValue":true},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true}]},{"key":"fga-eps-mds_2023.2-UnB-TV-Users:src/repository/userRepository.py","name":"userRepository.py","qualifier":"FIL","path":"src/repository/userRepository.py","language":"py","measures":[{"metric":"functions","value":"11"},{"metric":"comment_lines_density","value":"1.2","bestValue":false},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"files","value":"1"},{"metric":"coverage","value":"100.0","bestValue":true},{"metric":"ncloc","value":"80"},{"metric":"complexity","value":"16"},{"metric":"test_errors","value":"0","bestValue":true},{"metric":"test_failures","value":"0","bestValue":true},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true}]},{"key":"fga-eps-mds_2023.2-UnB-TV-Users:src/domain/userSchema.py","name":"userSchema.py","qualifier":"FIL","path":"src/domain/userSchema.py","language":"py","measures":[{"metric":"functions","value":"0"},{"metric":"ncloc","value":"30"},{"metric":"comment_lines_density","value":"0.0","bestValue":false},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"complexity","value":"0"},{"metric":"files","value":"1"},{"metric":"coverage","value":"100.0","bestValue":true},{"metric":"test_errors","value":"0","bestValue":true},{"metric":"test_failures","value":"0","bestValue":true},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true}]},{"key":"fga-eps-mds_2023.2-UnB-TV-Users:src/utils","name":"utils","qualifier":"DIR","path":"src/utils","measures":[{"metric":"functions","value":"11"},{"metric":"security_rating","value":"1.0","bestValue":true},{"metric":"duplicated_lines_density","value":"0.0","bestValue":true},{"metric":"complexity","value":"15"},{"metric":"files","value":"5"},{"metric":"coverage","value":"100.0","bestValue":true},{"metric":"ncloc","value":"108"},{"metric":"comment_lines_density","value":"0.0","bestValue":false}]}]}
+{
+  "paging": { "pageIndex": 1, "pageSize": 100, "total": 29 },
+  "baseComponent": {
+    "id": "AYtT3NdwB2h75p7CVfc3",
+    "key": "fga-eps-mds_2023.2-UnB-TV-Users",
+    "name": "2023.2-UnB-TV-Users",
+    "qualifier": "TRK",
+    "measures": [
+      { "metric": "security_rating", "value": "1.0", "bestValue": true },
+      { "metric": "functions", "value": "40" },
+      {
+        "metric": "duplicated_lines_density",
+        "value": "0.0",
+        "bestValue": true
+      },
+      { "metric": "coverage", "value": "100.0", "bestValue": true },
+      { "metric": "ncloc", "value": "516" },
+      { "metric": "comment_lines_density", "value": "1.7", "bestValue": false },
+      { "metric": "complexity", "value": "85" },
+      { "metric": "files", "value": "21" }
+    ]
+  },
+  "components": [
+    {
+      "key": "fga-eps-mds_2023.2-UnB-TV-Users:src/domain/__init__.py",
+      "name": "__init__.py",
+      "qualifier": "FIL",
+      "path": "src/domain/__init__.py",
+      "language": "py",
+      "measures": [
+        { "metric": "functions", "value": "0" },
+        { "metric": "ncloc", "value": "0" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "complexity", "value": "0" },
+        { "metric": "files", "value": "1" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        { "metric": "test_failures", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "key": "fga-eps-mds_2023.2-UnB-TV-Users:src/domain/models/__init__.py",
+      "name": "__init__.py",
+      "qualifier": "FIL",
+      "path": "src/domain/models/__init__.py",
+      "language": "py",
+      "measures": [
+        { "metric": "functions", "value": "0" },
+        { "metric": "ncloc", "value": "0" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "complexity", "value": "0" },
+        { "metric": "files", "value": "1" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        { "metric": "test_failures", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "key": "fga-eps-mds_2023.2-UnB-TV-Users:src/repository/__init__.py",
+      "name": "__init__.py",
+      "qualifier": "FIL",
+      "path": "src/repository/__init__.py",
+      "language": "py",
+      "measures": [
+        { "metric": "functions", "value": "0" },
+        { "metric": "ncloc", "value": "0" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "complexity", "value": "0" },
+        { "metric": "files", "value": "1" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        { "metric": "test_failures", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "key": "fga-eps-mds_2023.2-UnB-TV-Users:src/model/__init__.py",
+      "name": "__init__.py",
+      "qualifier": "FIL",
+      "path": "src/model/__init__.py",
+      "language": "py",
+      "measures": [
+        { "metric": "functions", "value": "0" },
+        { "metric": "ncloc", "value": "0" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "complexity", "value": "0" },
+        { "metric": "files", "value": "1" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        { "metric": "test_failures", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "key": "fga-eps-mds_2023.2-UnB-TV-Users:src/controller/__init__.py",
+      "name": "__init__.py",
+      "qualifier": "FIL",
+      "path": "src/controller/__init__.py",
+      "language": "py",
+      "measures": [
+        { "metric": "functions", "value": "0" },
+        { "metric": "ncloc", "value": "0" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "complexity", "value": "0" },
+        { "metric": "files", "value": "1" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        { "metric": "test_failures", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "key": "fga-eps-mds_2023.2-UnB-TV-Users:src/constants/__init__.py",
+      "name": "__init__.py",
+      "qualifier": "FIL",
+      "path": "src/constants/__init__.py",
+      "language": "py",
+      "measures": [
+        { "metric": "functions", "value": "0" },
+        { "metric": "ncloc", "value": "0" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "complexity", "value": "0" },
+        { "metric": "files", "value": "1" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        { "metric": "test_failures", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "key": "fga-eps-mds_2023.2-UnB-TV-Users:src/utils/__init__.py",
+      "name": "__init__.py",
+      "qualifier": "FIL",
+      "path": "src/utils/__init__.py",
+      "language": "py",
+      "measures": [
+        { "metric": "functions", "value": "0" },
+        { "metric": "ncloc", "value": "0" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "complexity", "value": "0" },
+        { "metric": "files", "value": "1" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        { "metric": "test_failures", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "key": "fga-eps-mds_2023.2-UnB-TV-Users:src/__init__.py",
+      "name": "__init__.py",
+      "qualifier": "FIL",
+      "path": "src/__init__.py",
+      "language": "py",
+      "measures": [
+        { "metric": "functions", "value": "0" },
+        { "metric": "ncloc", "value": "0" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "complexity", "value": "0" },
+        { "metric": "files", "value": "1" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        { "metric": "test_failures", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "key": "fga-eps-mds_2023.2-UnB-TV-Users:src/controller/authController.py",
+      "name": "authController.py",
+      "qualifier": "FIL",
+      "path": "src/controller/authController.py",
+      "language": "py",
+      "measures": [
+        { "metric": "functions", "value": "10" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "complexity", "value": "32" },
+        { "metric": "files", "value": "1" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "ncloc", "value": "116" },
+        {
+          "metric": "comment_lines_density",
+          "value": "2.5",
+          "bestValue": false
+        },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        { "metric": "test_failures", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "key": "fga-eps-mds_2023.2-UnB-TV-Users:src/domain/authSchema.py",
+      "name": "authSchema.py",
+      "qualifier": "FIL",
+      "path": "src/domain/authSchema.py",
+      "language": "py",
+      "measures": [
+        { "metric": "functions", "value": "0" },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "complexity", "value": "0" },
+        { "metric": "files", "value": "1" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "ncloc", "value": "36" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        { "metric": "test_failures", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "key": "fga-eps-mds_2023.2-UnB-TV-Users:src/constants",
+      "name": "constants",
+      "qualifier": "DIR",
+      "path": "src/constants",
+      "measures": [
+        { "metric": "functions", "value": "0" },
+        { "metric": "ncloc", "value": "16" },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "complexity", "value": "0" },
+        { "metric": "files", "value": "2" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true }
+      ]
+    },
+    {
+      "key": "fga-eps-mds_2023.2-UnB-TV-Users:src/controller",
+      "name": "controller",
+      "qualifier": "DIR",
+      "path": "src/controller",
+      "measures": [
+        { "metric": "functions", "value": "16" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "complexity", "value": "50" },
+        { "metric": "files", "value": "3" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "ncloc", "value": "182" },
+        {
+          "metric": "comment_lines_density",
+          "value": "2.7",
+          "bestValue": false
+        }
+      ]
+    },
+    {
+      "key": "fga-eps-mds_2023.2-UnB-TV-Users:src/database.py",
+      "name": "database.py",
+      "qualifier": "FIL",
+      "path": "src/database.py",
+      "language": "py",
+      "measures": [
+        { "metric": "functions", "value": "1" },
+        { "metric": "ncloc", "value": "18" },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "complexity", "value": "1" },
+        { "metric": "files", "value": "1" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        { "metric": "test_failures", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "key": "fga-eps-mds_2023.2-UnB-TV-Users:src/domain",
+      "name": "domain",
+      "qualifier": "DIR",
+      "path": "src/domain",
+      "measures": [
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "functions", "value": "0" },
+        { "metric": "ncloc", "value": "66" },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "complexity", "value": "0" },
+        { "metric": "files", "value": "4" }
+      ]
+    },
+    {
+      "key": "fga-eps-mds_2023.2-UnB-TV-Users:src/utils/dotenv.py",
+      "name": "dotenv.py",
+      "qualifier": "FIL",
+      "path": "src/utils/dotenv.py",
+      "language": "py",
+      "measures": [
+        { "metric": "functions", "value": "1" },
+        { "metric": "ncloc", "value": "8" },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "complexity", "value": "3" },
+        { "metric": "files", "value": "1" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        { "metric": "test_failures", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "key": "fga-eps-mds_2023.2-UnB-TV-Users:src/utils/enumeration.py",
+      "name": "enumeration.py",
+      "qualifier": "FIL",
+      "path": "src/utils/enumeration.py",
+      "language": "py",
+      "measures": [
+        { "metric": "functions", "value": "1" },
+        { "metric": "ncloc", "value": "14" },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "complexity", "value": "1" },
+        { "metric": "files", "value": "1" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        { "metric": "test_failures", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "key": "fga-eps-mds_2023.2-UnB-TV-Users:src/constants/errorMessages.py",
+      "name": "errorMessages.py",
+      "qualifier": "FIL",
+      "path": "src/constants/errorMessages.py",
+      "language": "py",
+      "measures": [
+        { "metric": "functions", "value": "0" },
+        { "metric": "ncloc", "value": "16" },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "complexity", "value": "0" },
+        { "metric": "files", "value": "1" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        { "metric": "test_failures", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "key": "fga-eps-mds_2023.2-UnB-TV-Users:src/main.py",
+      "name": "main.py",
+      "qualifier": "FIL",
+      "path": "src/main.py",
+      "language": "py",
+      "measures": [
+        { "metric": "functions", "value": "1" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "complexity", "value": "3" },
+        { "metric": "files", "value": "1" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "ncloc", "value": "31" },
+        {
+          "metric": "comment_lines_density",
+          "value": "6.1",
+          "bestValue": false
+        },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        { "metric": "test_failures", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "key": "fga-eps-mds_2023.2-UnB-TV-Users:src/model",
+      "name": "model",
+      "qualifier": "DIR",
+      "path": "src/model",
+      "measures": [
+        { "metric": "functions", "value": "0" },
+        { "metric": "ncloc", "value": "15" },
+        {
+          "metric": "comment_lines_density",
+          "value": "6.3",
+          "bestValue": false
+        },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "complexity", "value": "0" },
+        { "metric": "files", "value": "2" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true }
+      ]
+    },
+    {
+      "key": "fga-eps-mds_2023.2-UnB-TV-Users:src/domain/models",
+      "name": "models",
+      "qualifier": "DIR",
+      "path": "src/domain/models",
+      "measures": [
+        { "metric": "functions", "value": "0" },
+        { "metric": "ncloc", "value": "0" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "complexity", "value": "0" },
+        { "metric": "files", "value": "1" }
+      ]
+    },
+    {
+      "key": "fga-eps-mds_2023.2-UnB-TV-Users:src/repository",
+      "name": "repository",
+      "qualifier": "DIR",
+      "path": "src/repository",
+      "measures": [
+        { "metric": "functions", "value": "11" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        {
+          "metric": "comment_lines_density",
+          "value": "1.2",
+          "bestValue": false
+        },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "files", "value": "2" },
+        { "metric": "ncloc", "value": "80" },
+        { "metric": "complexity", "value": "16" }
+      ]
+    },
+    {
+      "key": "fga-eps-mds_2023.2-UnB-TV-Users:src/utils/security.py",
+      "name": "security.py",
+      "qualifier": "FIL",
+      "path": "src/utils/security.py",
+      "language": "py",
+      "measures": [
+        { "metric": "functions", "value": "7" },
+        { "metric": "ncloc", "value": "42" },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "complexity", "value": "9" },
+        { "metric": "files", "value": "1" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        { "metric": "test_failures", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "key": "fga-eps-mds_2023.2-UnB-TV-Users:src/utils/send_mail.py",
+      "name": "send_mail.py",
+      "qualifier": "FIL",
+      "path": "src/utils/send_mail.py",
+      "language": "py",
+      "measures": [
+        { "metric": "functions", "value": "2" },
+        { "metric": "ncloc", "value": "44" },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "complexity", "value": "2" },
+        { "metric": "files", "value": "1" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        { "metric": "test_failures", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "key": "fga-eps-mds_2023.2-UnB-TV-Users:src",
+      "name": "src",
+      "qualifier": "DIR",
+      "path": "src",
+      "measures": [
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "functions", "value": "40" },
+        { "metric": "ncloc", "value": "516" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "files", "value": "21" },
+        {
+          "metric": "comment_lines_density",
+          "value": "1.7",
+          "bestValue": false
+        },
+        { "metric": "complexity", "value": "85" }
+      ]
+    },
+    {
+      "key": "fga-eps-mds_2023.2-UnB-TV-Users:src/controller/userController.py",
+      "name": "userController.py",
+      "qualifier": "FIL",
+      "path": "src/controller/userController.py",
+      "language": "py",
+      "measures": [
+        { "metric": "functions", "value": "6" },
+        { "metric": "ncloc", "value": "66" },
+        {
+          "metric": "comment_lines_density",
+          "value": "2.9",
+          "bestValue": false
+        },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "complexity", "value": "18" },
+        { "metric": "files", "value": "1" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        { "metric": "test_failures", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "key": "fga-eps-mds_2023.2-UnB-TV-Users:src/model/userModel.py",
+      "name": "userModel.py",
+      "qualifier": "FIL",
+      "path": "src/model/userModel.py",
+      "language": "py",
+      "measures": [
+        { "metric": "functions", "value": "0" },
+        { "metric": "ncloc", "value": "15" },
+        {
+          "metric": "comment_lines_density",
+          "value": "6.3",
+          "bestValue": false
+        },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "complexity", "value": "0" },
+        { "metric": "files", "value": "1" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        { "metric": "test_failures", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "key": "fga-eps-mds_2023.2-UnB-TV-Users:src/repository/userRepository.py",
+      "name": "userRepository.py",
+      "qualifier": "FIL",
+      "path": "src/repository/userRepository.py",
+      "language": "py",
+      "measures": [
+        { "metric": "functions", "value": "11" },
+        {
+          "metric": "comment_lines_density",
+          "value": "1.2",
+          "bestValue": false
+        },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "files", "value": "1" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "ncloc", "value": "80" },
+        { "metric": "complexity", "value": "16" },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        { "metric": "test_failures", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "key": "fga-eps-mds_2023.2-UnB-TV-Users:src/domain/userSchema.py",
+      "name": "userSchema.py",
+      "qualifier": "FIL",
+      "path": "src/domain/userSchema.py",
+      "language": "py",
+      "measures": [
+        { "metric": "functions", "value": "0" },
+        { "metric": "ncloc", "value": "30" },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        { "metric": "complexity", "value": "0" },
+        { "metric": "files", "value": "1" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "test_errors", "value": "0", "bestValue": true },
+        { "metric": "test_failures", "value": "0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        }
+      ]
+    },
+    {
+      "key": "fga-eps-mds_2023.2-UnB-TV-Users:src/utils",
+      "name": "utils",
+      "qualifier": "DIR",
+      "path": "src/utils",
+      "measures": [
+        { "metric": "functions", "value": "11" },
+        { "metric": "security_rating", "value": "1.0", "bestValue": true },
+        {
+          "metric": "duplicated_lines_density",
+          "value": "0.0",
+          "bestValue": true
+        },
+        { "metric": "complexity", "value": "15" },
+        { "metric": "files", "value": "5" },
+        { "metric": "coverage", "value": "100.0", "bestValue": true },
+        { "metric": "ncloc", "value": "108" },
+        {
+          "metric": "comment_lines_density",
+          "value": "0.0",
+          "bestValue": false
+        }
+      ]
+    }
+  ]
+}
