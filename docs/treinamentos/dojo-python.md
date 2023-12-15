@@ -1,4 +1,4 @@
-## Dojo Python
+# Dojo Python
 
 Visando o treinamento e preparação dos alunos e alunas da disciplina de Métodos de Desenvolvimento de Software nas tecnologias utilizadas no backend do projeto, foi feito um Dojo de Python no dia 22 de setembro de 2023.
 

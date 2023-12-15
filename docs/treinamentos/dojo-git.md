@@ -1,4 +1,4 @@
-## Dojo Git
+# Dojo Git
 
 Visando o treinamento e preparação dos alunos e alunas da disciplina de Métodos de Desenvolvimento de Software nas tecnologias utilizadas no controle de versionamento do projeto, foi feito um Dojo de Git no dia 21 de setembro de 2023.
 
